@@ -1,5 +1,18 @@
 ---
-title: "myWebSite"
+title: "Jorge A. Thomas"
+image: mypic.jpg
+about: 
+    template: trestles
+    image-shape: round
+    image-width: 15em
+    links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jorge-thomas-ba751b8/
+    - icon: github
+      text: Github
+      href: https://github.com/jorgethomasm
+
 ---
 
 This is a Quarto website.
