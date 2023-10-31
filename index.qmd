@@ -12,7 +12,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/jorgethomasm
-
+    - icon: envelope-at
+      text: Email
+      href: mailto:jorgethomasm@ieee.org 
 ---
 
 This is a Quarto website.

@@ -1,7 +1,7 @@
 {
-  "hash": "99d1d2dc3ea8783bfd9d1ff9baa5034d",
+  "hash": "1472f25566feac611d379b7955eaea3e",
   "result": {
-    "markdown": "---\ntitle: \"myWebSite\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Jorge A. Thomas\"\nimage: mypic.jpg\nabout: \n    template: trestles\n    image-shape: round\n    image-width: 15em\n    links:\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/jorge-thomas-ba751b8/\n    - icon: github\n      text: Github\n      href: https://github.com/jorgethomasm\n    - icon: envelope-at\n      text: Email\n      href: mailto:jorgethomasm@ieee.org \n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
