@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jorge A. Thomas",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a website."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here you’ll find field-related content written by me."
+  },
+  {
+    "objectID": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",
+    "href": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",
+    "title": "Blog",
+    "section": "The Inner Join of Electrical Engineering and Data Science",
+    "text": "The Inner Join of Electrical Engineering and Data Science\nhttps://"
   }
 ]

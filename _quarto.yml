@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Data Scientist"
+  title: "Electrical Engineer & Data Scientist"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - blog.qmd     
 
 format:
   html:
@@ -17,4 +17,3 @@ format:
     toc: true
 
 editor: visual
-
