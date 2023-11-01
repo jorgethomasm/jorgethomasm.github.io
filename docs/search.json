@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Jorge A. Thomas",
     "section": "",
-    "text": "This is a website."
+    "text": "It is universally accepted that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach of the exploratory data analysis substantialy supported on Visual Analytics.\n\n\n\n\n\n\n\n\n\n\n\nFor datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best.\n\n\n\n\n\nClick here to see the dashboards on the Tableau Public website."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Education\n\n\nThe University of Nottingham"
   },
   {
     "objectID": "blog.html",
@@ -26,5 +26,40 @@
     "title": "Blog",
     "section": "The Inner Join of Electrical Engineering and Data Science",
     "text": "The Inner Join of Electrical Engineering and Data Science\nhttps://"
+  },
+  {
+    "objectID": "index.html#e2e-dashboards-and-reports-with-tableau",
+    "href": "index.html#e2e-dashboards-and-reports-with-tableau",
+    "title": "Jorge A. Thomas",
+    "section": "",
+    "text": "https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring"
+  },
+  {
+    "objectID": "index.html#e2e-dashboards-with-tableau",
+    "href": "index.html#e2e-dashboards-with-tableau",
+    "title": "Jorge A. Thomas",
+    "section": "",
+    "text": "https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring"
+  },
+  {
+    "objectID": "index.html#data-visualisation",
+    "href": "index.html#data-visualisation",
+    "title": "Jorge A. Thomas",
+    "section": "",
+    "text": "Click here to see the dashboards on the Tableau Public website."
+  },
+  {
+    "objectID": "index.html#machine-learning",
+    "href": "index.html#machine-learning",
+    "title": "Jorge A. Thomas",
+    "section": "",
+    "text": "It is universally accepted that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach of the exploratory data analysis substantialy supported on Visual Analytics."
+  },
+  {
+    "objectID": "index.html#deep-learning",
+    "href": "index.html#deep-learning",
+    "title": "Jorge A. Thomas",
+    "section": "",
+    "text": "For datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best."
   }
 ]
