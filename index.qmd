@@ -23,7 +23,7 @@ It is universally accepted that the most common type of dataset found in the ind
 
 ### Supervised Learning:
 #### [Multivariate Regression with Visual Analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
-In this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach of the exploratory data analysis substantialy supported on Visual Analytics.
+In this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.
 
 ### Unsupervised Learning:
 #### Clustering daily load profiles on time-series data
