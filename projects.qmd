@@ -1,5 +1,5 @@
 ---
-title: "Projects Portfolio"
+title: "Projects"
 ---
 
 ## Machine Learning

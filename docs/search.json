@@ -103,5 +103,33 @@
     "title": "About",
     "section": "Dipl.-Ing. Electrical Engineering",
     "text": "Dipl.-Ing. Electrical Engineering"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics."
+  },
+  {
+    "objectID": "projects.html#machine-learning",
+    "href": "projects.html#machine-learning",
+    "title": "Projects",
+    "section": "",
+    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics."
+  },
+  {
+    "objectID": "projects.html#deep-learning",
+    "href": "projects.html#deep-learning",
+    "title": "Projects",
+    "section": "Deep Learning",
+    "text": "Deep Learning\nFor datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best."
+  },
+  {
+    "objectID": "projects.html#data-visualisation",
+    "href": "projects.html#data-visualisation",
+    "title": "Projects",
+    "section": "Data Visualisation",
+    "text": "Data Visualisation\n\nE2E Dashboards with Tableau\nClick here to see the dashboards on the Tableau Public website."
   }
 ]
