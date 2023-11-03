@@ -4,7 +4,15 @@ title: "About"
 
 # Education
 
-# The University of Nottingham
+## University of Nottingham, UK (2010-2011)
+### MSc. Electrical Technology for Sustainable and Renewable Energy Systems
 
+## Universidad del Zulia, VE (2000-2006)
+### Dipl.-Ing. Electrical Engineering
 
+# Courses
 
+# Languages
+- Spanish (Native Language)
+- English
+- German

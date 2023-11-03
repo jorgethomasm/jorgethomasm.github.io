@@ -1,18 +1,20 @@
 project:
-  type: website
-  output-dir: docs
+  type: website  
+  output-dir: docs  
 
 website:
-  title: "Electrical Engineer & Data Scientist"
+  title: "Welcome"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - portfolio.qmd
       - blog.qmd
       - about.qmd  
 
 format:
   html:
+    from: markdown+emoji
     theme: cosmo
     css: styles.css
     toc: true

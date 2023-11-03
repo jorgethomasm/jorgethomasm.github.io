@@ -1,0 +1,19 @@
+---
+title: "Projects Portfolio"
+---
+
+## Machine Learning
+It is known that the most common type of dataset found in the industry is the **tabular** one.
+
+### Supervised Learning:
+#### [Multivariate Regression with Visual Analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
+In this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.
+
+### Unsupervised Learning:
+#### Clustering daily load profiles on time-series data
+## Deep Learning
+For datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best.
+
+## Data Visualisation
+### E2E Dashboards with Tableau
+Click [here](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"} to see the dashboards on the Tableau Public website.

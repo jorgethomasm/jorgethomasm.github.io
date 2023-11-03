@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jorge A. Thomas",
+    "title": "Jorge Thomas",
     "section": "",
-    "text": "It is universally accepted that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.\n\n\n\n\n\n\n\n\n\n\n\nFor datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best.\n\n\n\n\n\nClick here to see the dashboards on the Tableau Public website."
+    "text": "Hi… 🚧 ⚠️"
   },
   {
     "objectID": "about.html",
@@ -61,5 +61,47 @@
     "title": "Jorge A. Thomas",
     "section": "",
     "text": "For datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Projects Portfolio",
+    "section": "",
+    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics."
+  },
+  {
+    "objectID": "portfolio.html#machine-learning",
+    "href": "portfolio.html#machine-learning",
+    "title": "Projects Portfolio",
+    "section": "",
+    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics."
+  },
+  {
+    "objectID": "portfolio.html#deep-learning",
+    "href": "portfolio.html#deep-learning",
+    "title": "Projects Portfolio",
+    "section": "Deep Learning",
+    "text": "Deep Learning\nFor datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best."
+  },
+  {
+    "objectID": "portfolio.html#data-visualisation",
+    "href": "portfolio.html#data-visualisation",
+    "title": "Projects Portfolio",
+    "section": "Data Visualisation",
+    "text": "Data Visualisation\n\nE2E Dashboards with Tableau\nClick here to see the dashboards on the Tableau Public website."
+  },
+  {
+    "objectID": "about.html#msc.-electrical-technology-for-sustainable-and-renewable-energy-systems",
+    "href": "about.html#msc.-electrical-technology-for-sustainable-and-renewable-energy-systems",
+    "title": "About",
+    "section": "MSc. Electrical Technology for Sustainable and Renewable Energy Systems",
+    "text": "MSc. Electrical Technology for Sustainable and Renewable Energy Systems"
+  },
+  {
+    "objectID": "about.html#dipl.-ing.-electrical-engineering",
+    "href": "about.html#dipl.-ing.-electrical-engineering",
+    "title": "About",
+    "section": "Dipl.-Ing. Electrical Engineering",
+    "text": "Dipl.-Ing. Electrical Engineering"
   }
 ]
