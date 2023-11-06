@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Welcome"
+  favicon: ./imgs/favicon-32x32.png
   navbar:
     left:
       - href: index.qmd
