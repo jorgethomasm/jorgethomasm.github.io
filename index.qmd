@@ -1,22 +1,28 @@
 ---
 title: "Jorge Thomas"
-subtitle: "Lead Data Scientist"
-image: mypic.jpg
+subtitle: Data Scientist      
+image: ./imgs/bom_dia.jpg
+format:
+  html:
+    toc: false
 about: 
-    template: trestles
-    image-shape: round
-    image-width: 15em
+    template: trestles # https://quarto.org/docs/websites/website-about.html
+    image-shape: rectangle
+    image-width: 18em
     links:
     - icon: linkedin
-      text: LinkedIn
+      # text: LinkedIn
       href: https://www.linkedin.com/in/jorge-thomas-ba751b8/
     - icon: github
-      text: Github
+      # text: Github
       href: https://github.com/jorgethomasm
     - icon: envelope-at
-      text: Email
+      # text: Email
       href: mailto:jorgethomasm@ieee.org 
 ---
- 
-Hi...    🚧 :warning: 
+
+# "Hello there"
+
+
+🚧
 

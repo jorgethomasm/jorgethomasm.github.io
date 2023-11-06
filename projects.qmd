@@ -11,6 +11,8 @@ In this classic Kaggle project you will see my workflow developing pipelines on 
 
 ### Unsupervised Learning:
 #### Clustering daily load profiles on time-series data
+Very often we have to do some ML for ML. Yes, that is performing some auto-labelling or at least identify some possible ones. In this professional problem...
+
 ## Deep Learning
 For datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best.
 

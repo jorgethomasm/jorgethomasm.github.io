@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jorge Thomas",
     "section": "",
-    "text": "Hi… 🚧 ⚠️"
+    "text": "“Hello there”\n🚧"
   },
   {
     "objectID": "about.html",
@@ -109,14 +109,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics."
+    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.\n\n\n\n\n\n\nVery often we have to do some ML for ML. Yes, that is performing some auto-labelling or at least identify some possible ones. In this professional problem…"
   },
   {
     "objectID": "projects.html#machine-learning",
     "href": "projects.html#machine-learning",
     "title": "Projects",
     "section": "",
-    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics."
+    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.\n\n\n\n\n\n\nVery often we have to do some ML for ML. Yes, that is performing some auto-labelling or at least identify some possible ones. In this professional problem…"
   },
   {
     "objectID": "projects.html#deep-learning",

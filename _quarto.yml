@@ -15,7 +15,7 @@ website:
 format:
   html:
     from: markdown+emoji
-    theme: cosmo
+    theme: minty # https://quarto.org/docs/output-formats/html-themes.html
     css: styles.css
     toc: true
 
