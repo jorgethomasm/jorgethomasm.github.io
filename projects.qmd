@@ -8,12 +8,12 @@ title: "Projects"
 
 ## Machine Learning
 ### [Advanced Regression Techniques with Visual Analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
-In this classic Kaggle project you will **follow my workflow**, qith tips along the way, developing pipelines on the Extract-Transform-Load phase of the Data Science cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.
+In this classic Kaggle project you can **follow my workflow** where I'll give you sometips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.
 
 ## Deep Learning
-It is known that the most common type of dataset found in the industry is the **tabular** one. In this  regard ML and non-parametric, enssemble methods like XGBOOST are king.
+It is known that the most common type of dataset found in the industry is the **tabular** one. In this regard ML's non-parametric methods with ensembling via bagging or boosting are king.
 
-However, for datasets with high signal-to-noise (SNR) ratio like image recognition and language translation, DL methods are the best.
+However, for datasets with high signal-to-noise ratio (SNR) like image recognition and language translation, DL methods are the best.
 
 # Unsupervised Learning
 Discovering patterns in the supplied feature space.
