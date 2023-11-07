@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="././imgs/favicon-32x32.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -113,15 +114,27 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#machine-learning" id="toc-machine-learning" class="nav-link active" data-scroll-target="#machine-learning">Machine Learning</a>
+  <li><a href="#supervised-learning" id="toc-supervised-learning" class="nav-link active" data-scroll-target="#supervised-learning">Supervised Learning</a>
   <ul class="collapse">
-  <li><a href="#supervised-learning" id="toc-supervised-learning" class="nav-link" data-scroll-target="#supervised-learning">Supervised Learning:</a></li>
-  <li><a href="#unsupervised-learning" id="toc-unsupervised-learning" class="nav-link" data-scroll-target="#unsupervised-learning">Unsupervised Learning:</a></li>
+  <li><a href="#machine-learning" id="toc-machine-learning" class="nav-link" data-scroll-target="#machine-learning">Machine Learning</a>
+  <ul class="collapse">
+  <li><a href="#advanced-regression-techniques-with-visual-analytics" id="toc-advanced-regression-techniques-with-visual-analytics" class="nav-link" data-scroll-target="#advanced-regression-techniques-with-visual-analytics">Advanced Regression Techniques with Visual Analytics</a></li>
   </ul></li>
   <li><a href="#deep-learning" id="toc-deep-learning" class="nav-link" data-scroll-target="#deep-learning">Deep Learning</a></li>
+  </ul></li>
+  <li><a href="#unsupervised-learning" id="toc-unsupervised-learning" class="nav-link" data-scroll-target="#unsupervised-learning">Unsupervised Learning</a>
+  <ul class="collapse">
+  <li><a href="#machine-learning-1" id="toc-machine-learning-1" class="nav-link" data-scroll-target="#machine-learning-1">Machine Learning:</a>
+  <ul class="collapse">
+  <li><a href="#hierarchical-clustering-of-daily-load-profiles-of-time-series-data" id="toc-hierarchical-clustering-of-daily-load-profiles-of-time-series-data" class="nav-link" data-scroll-target="#hierarchical-clustering-of-daily-load-profiles-of-time-series-data">Hierarchical clustering of daily load profiles of time-series data</a></li>
+  </ul></li>
+  </ul></li>
   <li><a href="#data-visualisation" id="toc-data-visualisation" class="nav-link" data-scroll-target="#data-visualisation">Data Visualisation</a>
   <ul class="collapse">
-  <li><a href="#e2e-dashboards-with-tableau" id="toc-e2e-dashboards-with-tableau" class="nav-link" data-scroll-target="#e2e-dashboards-with-tableau">E2E Dashboards with Tableau</a></li>
+  <li><a href="#dashboarding" id="toc-dashboarding" class="nav-link" data-scroll-target="#dashboarding">Dashboarding</a>
+  <ul class="collapse">
+  <li><a href="#using-tableau-for-iot-dashboard-and-energy-management" id="toc-using-tableau-for-iot-dashboard-and-energy-management" class="nav-link" data-scroll-target="#using-tableau-for-iot-dashboard-and-energy-management">Using Tableau for IoT-Dashboard and Energy Management</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 </nav>
@@ -146,35 +159,43 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>🚧🚧🚧🚧🚧 (WIP)</p>
+<section id="supervised-learning" class="level1">
+<h1>Supervised Learning</h1>
 <section id="machine-learning" class="level2">
 <h2 class="anchored" data-anchor-id="machine-learning">Machine Learning</h2>
-<p>It is known that the most common type of dataset found in the industry is the <strong>tabular</strong> one.</p>
-<section id="supervised-learning" class="level3">
-<h3 class="anchored" data-anchor-id="supervised-learning">Supervised Learning:</h3>
-<section id="multivariate-regression-with-visual-analytics" class="level4">
-<h4 class="anchored" data-anchor-id="multivariate-regression-with-visual-analytics"><a href="https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html" target="_blank">Multivariate Regression with Visual Analytics</a></h4>
-<p>In this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.</p>
-</section>
-</section>
-<section id="unsupervised-learning" class="level3">
-<h3 class="anchored" data-anchor-id="unsupervised-learning">Unsupervised Learning:</h3>
-<section id="clustering-daily-load-profiles-on-time-series-data" class="level4">
-<h4 class="anchored" data-anchor-id="clustering-daily-load-profiles-on-time-series-data">Clustering daily load profiles on time-series data</h4>
-<p>Very often we have to do some ML for ML. Yes, that is performing some auto-labelling or at least identify some possible ones. In this professional problem…</p>
-</section>
+<section id="advanced-regression-techniques-with-visual-analytics" class="level3">
+<h3 class="anchored" data-anchor-id="advanced-regression-techniques-with-visual-analytics"><a href="https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html" target="_blank">Advanced Regression Techniques with Visual Analytics</a></h3>
+<p>In this classic Kaggle project you will <strong>follow my workflow</strong>, qith tips along the way, developing pipelines on the Extract-Transform-Load phase of the Data Science cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.</p>
 </section>
 </section>
 <section id="deep-learning" class="level2">
 <h2 class="anchored" data-anchor-id="deep-learning">Deep Learning</h2>
-<p>For datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best.</p>
+<p>It is known that the most common type of dataset found in the industry is the <strong>tabular</strong> one. In this regard ML and non-parametric, enssemble methods like XGBOOST are king.</p>
+<p>However, for datasets with high signal-to-noise (SNR) ratio like image recognition and language translation, DL methods are the best.</p>
 </section>
-<section id="data-visualisation" class="level2">
-<h2 class="anchored" data-anchor-id="data-visualisation">Data Visualisation</h2>
-<section id="e2e-dashboards-with-tableau" class="level3">
-<h3 class="anchored" data-anchor-id="e2e-dashboards-with-tableau">E2E Dashboards with Tableau</h3>
-<p>Click <a href="https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring" target="_blank">here</a> to see the dashboards on the Tableau Public website.</p>
+</section>
+<section id="unsupervised-learning" class="level1">
+<h1>Unsupervised Learning</h1>
+<p>Discovering patterns in the supplied feature space.</p>
+<p>Very often we have to do some ML for ML. Yes, that is performing some auto-labelling or at least identify some possible ones. In this professional problem…</p>
+<section id="machine-learning-1" class="level2">
+<h2 class="anchored" data-anchor-id="machine-learning-1">Machine Learning:</h2>
+<section id="hierarchical-clustering-of-daily-load-profiles-of-time-series-data" class="level3">
+<h3 class="anchored" data-anchor-id="hierarchical-clustering-of-daily-load-profiles-of-time-series-data"><a href="https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature">Hierarchical clustering of daily load profiles of time-series data</a></h3>
+</section>
+</section>
+</section>
+<section id="data-visualisation" class="level1">
+<h1>Data Visualisation</h1>
+<section id="dashboarding" class="level2">
+<h2 class="anchored" data-anchor-id="dashboarding">Dashboarding</h2>
+<section id="using-tableau-for-iot-dashboard-and-energy-management" class="level3">
+<h3 class="anchored" data-anchor-id="using-tableau-for-iot-dashboard-and-energy-management"><a href="https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring" target="_blank">Using Tableau for IoT-Dashboard and Energy Management</a></h3>
+<p>In this project, part of….</p>
 
 
+</section>
 </section>
 </section>
 

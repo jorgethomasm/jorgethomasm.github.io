@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Jorge Thomas",
     "section": "",
-    "text": "“Hello there”\n🚧"
+    "text": "“Hello there”\n🚧🚧🚧🚧🚧 (WIP)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Education\n\n\nThe University of Nottingham"
+    "text": "🚧🚧🚧🚧🚧 (WIP)"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Here you’ll find field-related content written by me."
+    "text": "🚧🚧🚧🚧🚧 (WIP)\nHere you’ll find field-related content written by me."
   },
   {
     "objectID": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",
@@ -109,21 +109,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.\n\n\n\n\n\n\nVery often we have to do some ML for ML. Yes, that is performing some auto-labelling or at least identify some possible ones. In this professional problem…"
+    "text": "🚧🚧🚧🚧🚧 (WIP)"
   },
   {
     "objectID": "projects.html#machine-learning",
     "href": "projects.html#machine-learning",
     "title": "Projects",
-    "section": "",
-    "text": "It is known that the most common type of dataset found in the industry is the tabular one.\n\n\n\n\nIn this classic Kaggle project you will see my workflow developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.\n\n\n\n\n\n\nVery often we have to do some ML for ML. Yes, that is performing some auto-labelling or at least identify some possible ones. In this professional problem…"
+    "section": "Machine Learning",
+    "text": "Machine Learning\n\nAdvanced Regression Techniques with Visual Analytics\nIn this classic Kaggle project you will follow my workflow, qith tips along the way, developing pipelines on the Extract-Transform-Load phase of the Data Science cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics."
   },
   {
     "objectID": "projects.html#deep-learning",
     "href": "projects.html#deep-learning",
     "title": "Projects",
     "section": "Deep Learning",
-    "text": "Deep Learning\nFor datasets with high signal-to-noise ratio like image recognition and language translation, DL methods are the best."
+    "text": "Deep Learning\nIt is known that the most common type of dataset found in the industry is the tabular one. In this regard ML and non-parametric, enssemble methods like XGBOOST are king.\nHowever, for datasets with high signal-to-noise (SNR) ratio like image recognition and language translation, DL methods are the best."
   },
   {
     "objectID": "projects.html#data-visualisation",
@@ -131,5 +131,40 @@
     "title": "Projects",
     "section": "Data Visualisation",
     "text": "Data Visualisation\n\nE2E Dashboards with Tableau\nClick here to see the dashboards on the Tableau Public website."
+  },
+  {
+    "objectID": "projects.html#machine-learning-1",
+    "href": "projects.html#machine-learning-1",
+    "title": "Projects",
+    "section": "Machine Learning:",
+    "text": "Machine Learning:\n\nHierarchical clustering of daily load profiles of time-series data"
+  },
+  {
+    "objectID": "projects.html#interactive-dashboarding",
+    "href": "projects.html#interactive-dashboarding",
+    "title": "Projects",
+    "section": "Interactive Dashboarding",
+    "text": "Interactive Dashboarding\n\nUsing Tableau for IoT-Dashboard and Energy Management\nIn this project, part of…."
+  },
+  {
+    "objectID": "about.html#university-of-nottingham-uk-2010-2011",
+    "href": "about.html#university-of-nottingham-uk-2010-2011",
+    "title": "About",
+    "section": "University of Nottingham, UK (2010-2011)",
+    "text": "University of Nottingham, UK (2010-2011)\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems"
+  },
+  {
+    "objectID": "about.html#universidad-del-zulia-ve-2000-2006",
+    "href": "about.html#universidad-del-zulia-ve-2000-2006",
+    "title": "About",
+    "section": "Universidad del Zulia, VE (2000-2006)",
+    "text": "Universidad del Zulia, VE (2000-2006)\n\nDipl.-Ing. Electrical Engineering"
+  },
+  {
+    "objectID": "projects.html#dashboarding",
+    "href": "projects.html#dashboarding",
+    "title": "Projects",
+    "section": "Dashboarding",
+    "text": "Dashboarding\n\nUsing Tableau for IoT-Dashboard and Energy Management\nIn this project, part of…."
   }
 ]
