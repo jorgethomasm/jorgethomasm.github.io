@@ -8,23 +8,34 @@ title: "Projects"
 
 ## Machine Learning
 ### [Advanced Regression Techniques with Visual Analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
-In this classic Kaggle project you can **follow my workflow** where I'll give you sometips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics.
+In this classic Kaggle project you can **follow my workflow** where I'll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on visual analytics.
 
 ## Deep Learning
 It is known that the most common type of dataset found in the industry is the **tabular** one. In this regard ML's non-parametric methods with ensembling via bagging or boosting are king.
 
 However, for datasets with high signal-to-noise ratio (SNR) like image recognition and language translation, DL methods are the best.
 
-# Unsupervised Learning
-Discovering patterns in the supplied feature space.
+## Survival Analysis
+My professional entry point to what at that time was *Data Mining*, specifically in the area of reliability and risk assessment of power networks.
 
-Very often we have to do some ML for ML. Yes, that is performing some auto-labelling or at least identify some possible ones. In this professional problem...
+
+# Unsupervised Learning
+Discovering patterns in the feature space.
+
+Very often we have to do some previoius ML for ML. Yes, that means performing some auto-labelling or at least identifying some possible ones.
 
 ## Machine Learning:
-### [Hierarchical clustering of daily load profiles of time-series data](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature)
+### [Hierarchical clustering of daily load profiles](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature){target="_blank"}
+
+In the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always follow a very strong daily seasonality. Load and demand sequential data are a strong function of calendar facotors like hour and day type. 
+Based on a famous proceeding with more than forty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous profiles.
 
 # Data Visualisation
-## Dashboarding
+## Interactive Dashboards
 ### [Using Tableau for IoT-Dashboard and Energy Management](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
 
-In this project, part of.... 
+I designed these IoT-Dashboards with monitoring and BI purposes using *Tableau Desktop*. I also developed the whole E2E pipeline using technolgies like *InfluxDB*, *SQLite*, *Python* and *Tableau Bridge* to keep the dashboards up to date on a half-hour basis.
+This was the final part of the project "Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern", [dynOpt-En](https://www.iosb.fraunhofer.de/de/projekte-produkte/dynopt-en.html){target="_blank"}. 
+
+Moreover, I developed the core forecasting algorithm for the predictive control of the energy manager.
+

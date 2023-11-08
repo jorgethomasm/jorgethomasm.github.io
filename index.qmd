@@ -1,6 +1,6 @@
 ---
 title: "Jorge Thomas"
-subtitle: Data Scientist      
+subtitle: Data Science Lead, Electrical Engineer, MSc.
 image: ./imgs/bom_dia.jpg
 format:
   html:
@@ -23,5 +23,13 @@ about:
 
 # "Hello there"
 
-🚧🚧🚧🚧🚧 (WIP)
+Hi, I'm Jorge and I like espresso made with light roast coffee beans. I subscribe to J. Cash's definition of paradise:
+
+*“This morning, with her, having coffee.”*
+
+Professionally I am an Electrical Engineer fond of sustainable energy sources. Somehow, I've always ended up doing what I love the most: the development of data-driven algorithms either for Control Systems support or providing Business Intelligence.
+
+I live in Karlsruhe.
+
+🚧 (wip)
 
