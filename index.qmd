@@ -1,6 +1,6 @@
 ---
 title: "Jorge Thomas"
-subtitle: Data Science Lead, Electrical Engineer, MSc.
+subtitle: Lead Data Scientist - Electrical Engineer, MSc.
 image: ./imgs/bom_dia.jpg
 format:
   html:
@@ -23,13 +23,14 @@ about:
 
 # "Hello there"
 
-Hi, I'm Jorge and I like espresso made with light roast coffee beans. I subscribe to J. Cash's definition of paradise:
+Hi, I'm Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash's definition of paradise:
 
 *“This morning, with her, having coffee.”*
 
-Professionally I am an Electrical Engineer fond of sustainable energy sources. Somehow, I've always ended up doing what I love the most: the development of data-driven algorithms either for Control Systems support or providing Business Intelligence.
+Professionally I am an Electrical Engineer fond of sustainable energy sources, in consequence data and modelling. Somehow, I've always manage to end up doing what I love the most: the development of data-driven algorithms either for supporting control systems or providing business intelligence.
 
-I live in Karlsruhe.
+I live in Karlsruhe. If you want to know how I got into what today is Data Science click on the "About" tab. If you want to talk about data science, music or coffee instead, just drop me an [email](mailto:jorgethomasm@ieee.org).
 
-🚧 (wip)
+Have a nice day or night.
 
+*J. Thomas*

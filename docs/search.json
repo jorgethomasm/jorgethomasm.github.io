@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jorge Thomas",
     "section": "",
-    "text": "“Hello there”\n🚧🚧🚧🚧🚧 (WIP)"
+    "text": "“Hello there”\nHi, I’m Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n“This morning, with her, having coffee.”\nProfessionally I am an Electrical Engineer fond of sustainable energy sources, in consequence data and modelling. Somehow, I’ve always manage to end up doing what I love the most: the development of data-driven algorithms either for supporting control systems or providing business intelligence.\nI live in Karlsruhe. If you want to know how I got into what today is Data Science click on the “About” tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or night.\nJ. Thomas"
   },
   {
     "objectID": "about.html",
@@ -116,7 +116,7 @@
     "href": "projects.html#machine-learning",
     "title": "Projects",
     "section": "Machine Learning",
-    "text": "Machine Learning\n\nAdvanced Regression Techniques with Visual Analytics\nIn this classic Kaggle project you can follow my workflow where I’ll give you sometips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on Visual Analytics."
+    "text": "Machine Learning\n\nAdvanced Regression Techniques with Visual Analytics\nIn this classic Kaggle project you can follow my workflow where I’ll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on visual analytics."
   },
   {
     "objectID": "projects.html#deep-learning",
@@ -137,7 +137,7 @@
     "href": "projects.html#machine-learning-1",
     "title": "Projects",
     "section": "Machine Learning:",
-    "text": "Machine Learning:\n\nHierarchical clustering of daily load profiles of time-series data"
+    "text": "Machine Learning:\n\nHierarchical clustering of daily load profiles\nIn the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always follow a very strong daily seasonality. Load and demand sequential data are a strong function of calendar facotors like hour and day type. Based on a famous proceeding with more than forty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous profiles."
   },
   {
     "objectID": "projects.html#interactive-dashboarding",
@@ -166,5 +166,19 @@
     "title": "Projects",
     "section": "Dashboarding",
     "text": "Dashboarding\n\nUsing Tableau for IoT-Dashboard and Energy Management\nIn this project, part of…."
+  },
+  {
+    "objectID": "projects.html#survival-analysis",
+    "href": "projects.html#survival-analysis",
+    "title": "Projects",
+    "section": "Survival Analysis",
+    "text": "Survival Analysis\nMy professional entry point to what at that time was Data Mining, specifically in the area of reliability and risk assessment of power networks."
+  },
+  {
+    "objectID": "projects.html#interactive-dashboards",
+    "href": "projects.html#interactive-dashboards",
+    "title": "Projects",
+    "section": "Interactive Dashboards",
+    "text": "Interactive Dashboards\n\nUsing Tableau for IoT-Dashboard and Energy Management\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project “Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern”, dynOpt-En.\nMoreover, I developed the core forecasting algorithm for the predictive control of the energy manager."
   }
 ]
