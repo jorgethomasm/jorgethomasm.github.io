@@ -2,13 +2,17 @@
 title: "Projects"
 ---
 
-🚧🚧🚧🚧🚧 (WIP)
+🚧 (wip)
+
+# AI Project Management
+
+### Delivery an ML/AI Strategy
 
 # Supervised Learning
 
 ## Machine Learning
-### [Advanced Regression Techniques with Visual Analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
-In this classic Kaggle project you can **follow my workflow** where I'll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on visual analytics.
+### [Advanced regression techniques with visual analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
+In this classic Kaggle project you can **follow my workflow** where I'll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy presentation on the EDA supported on visual analytics. Among the technologies I used are ***R*** with the state-of-the-art ***Tidyverse*** and ***Tidymodels*** packages. ***Quarto*** is the publishing system.
 
 ## Deep Learning
 It is known that the most common type of dataset found in the industry is the **tabular** one. In this regard ML's non-parametric methods with ensembling via bagging or boosting are king.
@@ -27,15 +31,16 @@ Very often we have to do some previoius ML for ML. Yes, that means performing so
 ## Machine Learning:
 ### [Hierarchical clustering of daily load profiles](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature){target="_blank"}
 
-In the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always follow a very strong daily seasonality. Load and demand sequential data are a strong function of calendar facotors like hour and day type. 
-Based on a famous proceeding with more than forty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous profiles.
+In the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. 
+Based on a famous proceeding with more than fourty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous profiles.
 
 # Data Visualisation
 ## Interactive Dashboards
 ### [Using Tableau for IoT-Dashboard and Energy Management](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
 
-I designed these IoT-Dashboards with monitoring and BI purposes using *Tableau Desktop*. I also developed the whole E2E pipeline using technolgies like *InfluxDB*, *SQLite*, *Python* and *Tableau Bridge* to keep the dashboards up to date on a half-hour basis.
+I designed these IoT-Dashboards with monitoring and BI purposes using *Tableau Desktop*. I also developed the whole E2E pipeline using technolgies like ***InfluxDB***, ***SQLite***, ***Python*** and ***Tableau Bridge*** to keep the dashboards up to date on a half-hour basis.
 This was the final part of the project "Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern", [dynOpt-En](https://www.iosb.fraunhofer.de/de/projekte-produkte/dynopt-en.html){target="_blank"}. 
 
 Moreover, I developed the core forecasting algorithm for the predictive control of the energy manager.
 
+### [E2E Automated Reports for Smart Buildings]

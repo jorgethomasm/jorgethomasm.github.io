@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Jorge Thomas",
     "section": "",
-    "text": "“Hello there”\nHi, I’m Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n“This morning, with her, having coffee.”\nProfessionally I am an Electrical Engineer fond of sustainable energy sources, in consequence data and modelling. Somehow, I’ve always manage to end up doing what I love the most: the development of data-driven algorithms either for supporting control systems or providing business intelligence.\nI live in Karlsruhe. If you want to know how I got into what today is Data Science click on the “About” tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or night.\nJ. Thomas"
+    "text": "“Hello there”\nHi, I’m Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n  – “This morning, with her, having coffee.”\nProfessionally I am an Electrical Engineer fond of sustainable energy sources, in consequence data and modelling. Somehow, I’ve always manage to end up doing what I love the most: the development of data-driven algorithms either for providing business intelligence or supporting control systems.\nI live in Karlsruhe but I don’t bike. If you want to know how I got into what today is Data Science click on the “About” tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or evening.\nJ. Thomas"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "🚧🚧🚧🚧🚧 (WIP)"
+    "text": "🚧 (wip)"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "🚧🚧🚧🚧🚧 (WIP)\nHere you’ll find field-related content written by me."
+    "text": "🚧 (wip)\nHere you’ll find linkd to field-related content written by me."
   },
   {
     "objectID": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",
@@ -109,14 +109,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "🚧🚧🚧🚧🚧 (WIP)"
+    "text": "🚧 (wip)"
   },
   {
     "objectID": "projects.html#machine-learning",
     "href": "projects.html#machine-learning",
     "title": "Projects",
     "section": "Machine Learning",
-    "text": "Machine Learning\n\nAdvanced Regression Techniques with Visual Analytics\nIn this classic Kaggle project you can follow my workflow where I’ll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy approach on the exploratory data analysis substantialy supported on visual analytics."
+    "text": "Machine Learning\n\nAdvanced regression techniques with visual analytics\nIn this classic Kaggle project you can follow my workflow where I’ll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy presentation on the EDA supported on visual analytics. Among the technologies I used are R with the state-of-the-art Tidyverse and Tidymodels packages. Quarto is the publishing system."
   },
   {
     "objectID": "projects.html#deep-learning",
@@ -137,7 +137,7 @@
     "href": "projects.html#machine-learning-1",
     "title": "Projects",
     "section": "Machine Learning:",
-    "text": "Machine Learning:\n\nHierarchical clustering of daily load profiles\nIn the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always follow a very strong daily seasonality. Load and demand sequential data are a strong function of calendar facotors like hour and day type. Based on a famous proceeding with more than forty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous profiles."
+    "text": "Machine Learning:\n\nHierarchical clustering of daily load profiles\nIn the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a famous proceeding with more than fourty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous profiles."
   },
   {
     "objectID": "projects.html#interactive-dashboarding",
@@ -179,6 +179,62 @@
     "href": "projects.html#interactive-dashboards",
     "title": "Projects",
     "section": "Interactive Dashboards",
-    "text": "Interactive Dashboards\n\nUsing Tableau for IoT-Dashboard and Energy Management\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project “Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern”, dynOpt-En.\nMoreover, I developed the core forecasting algorithm for the predictive control of the energy manager."
+    "text": "Interactive Dashboards\n\nUsing Tableau for IoT-Dashboard and Energy Management\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project “Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern”, dynOpt-En.\nMoreover, I developed the core forecasting algorithm for the predictive control of the energy manager.\n\n\n[E2E Automated Reports for Smart Buildings]"
+  },
+  {
+    "objectID": "about.html#university-of-nottingham",
+    "href": "about.html#university-of-nottingham",
+    "title": "About",
+    "section": "University of Nottingham",
+    "text": "University of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)"
+  },
+  {
+    "objectID": "about.html#universidad-del-zulia",
+    "href": "about.html#universidad-del-zulia",
+    "title": "About",
+    "section": "Universidad del Zulia",
+    "text": "Universidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nIBM\nIBM AI Engineering Professional Certificate (2023)\n\n\nUdacity\nNanodegree in AI for Buisness Leaders (2022)\n\n\nStanford University Online\nSTATSX0001: Statistical Learning (2022) (Trevor Hastie & Robert Tibshirani)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+  },
+  {
+    "objectID": "about.html#courses",
+    "href": "about.html#courses",
+    "title": "About",
+    "section": "Courses",
+    "text": "Courses\nMicrosoft Power BI Desktop for Business Intelligence (2022) (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science (2019) (Kirill Eremenko)"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About",
+    "section": "Languages",
+    "text": "Languages\n\nSpanish (Native Language)\nEnglish (Fluent)\nGerman (Fluent)"
+  },
+  {
+    "objectID": "about.html#education-and-certifications",
+    "href": "about.html#education-and-certifications",
+    "title": "About",
+    "section": "Education and Certifications",
+    "text": "Education and Certifications\n\nIBM\nIBM AI Engineering Professional, 2022 - 2023\n\n\nUdacity\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntro to Machine Learning free course, 2017 (Sebastian Thrun & Katie Malone)\n\n\nStanford University Online\nSTATSX0001: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)\n\n\nUdemy\nOngoing: 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)"
+  },
+  {
+    "objectID": "about.html#education-certificates",
+    "href": "about.html#education-certificates",
+    "title": "About",
+    "section": "Education & Certificates",
+    "text": "Education & Certificates\n\nIBM\nIBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\nUdacity\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\nStanford University\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\nUdemy\nOngoing: 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+  },
+  {
+    "objectID": "about.html#data-was-not-everywhere",
+    "href": "about.html#data-was-not-everywhere",
+    "title": "About",
+    "section": "Data was not everywhere",
+    "text": "Data was not everywhere"
   }
 ]
