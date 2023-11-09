@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jorge Thomas",
     "section": "",
-    "text": "“Hello there”\nHi, I’m Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n  – “This morning, with her, having coffee.”\nProfessionally I am an Electrical Engineer fond of sustainable energy sources, in consequence data and modelling. Somehow, I’ve always manage to end up doing what I love the most: the development of data-driven algorithms either for providing business intelligence or supporting control systems.\nI live in Karlsruhe but I don’t bike. If you want to know how I got into what today is Data Science click on the “About” tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or evening.\nJ. Thomas"
+    "text": "Hello there\nI’m Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n  – This morning, with her, having coffee.\nProfessionally I am an Electrical Engineer fond of sustainable energy sources, in consequence data and modelling. Somehow, I’ve always manage to end up doing what I love the most: the development of data-driven algorithms either for providing business intelligence or supporting control systems.\nI don’t bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click the “About” tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or evening.\nJ. Thomas"
   },
   {
     "objectID": "about.html",
@@ -18,14 +18,14 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "🚧 (wip)\nHere you’ll find linkd to field-related content written by me."
+    "text": "🚧 (wip)\nHere you’ll find the links to field-related content written by me."
   },
   {
     "objectID": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",
     "href": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",
     "title": "Blog",
-    "section": "The Inner Join of Electrical Engineering and Data Science",
-    "text": "The Inner Join of Electrical Engineering and Data Science\nhttps://"
+    "section": "The inner-join of Electrical Engineering and Data Science",
+    "text": "The inner-join of Electrical Engineering and Data Science\nhttps://"
   },
   {
     "objectID": "index.html#e2e-dashboards-and-reports-with-tableau",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "🚧 (wip)"
+    "text": "Welcome to my projects. (wip) 🚧\nThe technologies I’ve used are highlighted. Click on the project link for a detailed look!"
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -179,7 +179,7 @@
     "href": "projects.html#interactive-dashboards",
     "title": "Projects",
     "section": "Interactive Dashboards",
-    "text": "Interactive Dashboards\n\nIoT-Dashboards for energy management with Tableau\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project “Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern”, dynOpt-En.\nMoreover, I developed the core forecasting algorithm for the predictive control of the energy manager.\n\n\nE2E automated energy reports for smart buildings\nIn 2019 for the EffMon project, I developed a set of fucntions to comunicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
+    "text": "Interactive Dashboards\n\nIoT-Dashboards for energy management with Tableau\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\n\n\nE2E automated energy reports for smart buildings\nIn 2019 for the EffMon project, I developed a set of functions to comunicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
   },
   {
     "objectID": "about.html#university-of-nottingham",
@@ -236,5 +236,40 @@
     "title": "About",
     "section": "Data was not everywhere",
     "text": "Data was not everywhere"
+  },
+  {
+    "objectID": "projects.html#supervised-learning",
+    "href": "projects.html#supervised-learning",
+    "title": "Projects",
+    "section": "Supervised Learning",
+    "text": "Supervised Learning\n\n- Machine Learning:\n\nAdvanced regression techniques with visual analytics\nIn this classic Kaggle project you can follow my workflow where I’ll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy presentation on the EDA supported on visual analytics. Among the technologies I used are R with the state-of-the-art Tidyverse and Tidymodels packages. Quarto is the publishing system.\n\n\nForecasting heat demand in buildings\nWith today’s advances on remote sensing, optimal energy management can be performed in the cloud. This is the maxima of project dynOpt-En, where I developed the two-days-ahead forecasting module for the MPC optimiser. Training a Generalised Additive Model (GAM) and using the Dark Sky API, free at that time, I manage to retrieve the weather variables from Numeric Weather Prediction models (NWP) needed as features.\n\n\n\n- Deep Learning:\nIt is known that the most common type of dataset found in the industry is the tabular one. In this regard ML’s non-parametric methods with ensembling via bagging or boosting are king. However, for big datasets with high signal-to-noise ratio (SNR) like image recognition and language translation, DL methods are unbeatable.\n\nWater demand prediction with LSTMs for pumps control\n\n\n\n- Survival Analysis:\nMy professional entry point to what at that time was Data Mining, specifically in the area of reliability and risk assessment of power systems."
+  },
+  {
+    "objectID": "projects.html#unsupervised-learning",
+    "href": "projects.html#unsupervised-learning",
+    "title": "Projects",
+    "section": "Unsupervised Learning",
+    "text": "Unsupervised Learning\nDiscovering patterns in the feature space.\nVery often we have to do some previoius ML for ML. Yes, that means performing some auto-labelling or at least identifying some possible ones.\n\n- Machine Learning:\n\nHierarchical clustering of daily load profiles\nIn the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a famous proceeding with more than fourty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.\n\n\n\n- Deep Learning:"
+  },
+  {
+    "objectID": "projects.html#supervised-learnin",
+    "href": "projects.html#supervised-learnin",
+    "title": "Projects",
+    "section": "Supervised Learnin",
+    "text": "Supervised Learnin\n\nMachine Learning:\n\nAdvanced regression techniques with visual analytics\nIn this classic Kaggle project you can follow my workflow where I’ll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy presentation on the EDA supported on visual analytics. Among the technologies I used are R with the state-of-the-art Tidyverse and Tidymodels packages. Quarto is the publishing system.\n\n\n\nDeep Learning:\nIt is known that the most common type of dataset found in the industry is the tabular one. In this regard ML’s non-parametric methods with ensembling via bagging or boosting are king. However, for big datasets with high signal-to-noise ratio (SNR) like image recognition and language translation, DL methods are unbeatable.\n\n\nSurvival Analysis:\nMy professional entry point to what at that time was Data Mining, specifically in the area of reliability and risk assessment of power systems."
+  },
+  {
+    "objectID": "projects.html#dashboards-and-report-automation",
+    "href": "projects.html#dashboards-and-report-automation",
+    "title": "Projects",
+    "section": "Dashboards and Report Automation",
+    "text": "Dashboards and Report Automation\n\nIoT-Dashboards for energy management with Tableau\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\n\n\nE2E automated energy reports for smart buildings\nIn 2019 for the EffMon project, I developed a set of functions to comunicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
+  },
+  {
+    "objectID": "projects.html#dashboards-and-reports-automation",
+    "href": "projects.html#dashboards-and-reports-automation",
+    "title": "Projects",
+    "section": "Dashboards and Reports Automation",
+    "text": "Dashboards and Reports Automation\n\nIoT-Dashboards for energy management with Tableau\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\n\n\nE2E automated energy reports for smart buildings\nIn 2019 for the EffMon project, I developed a set of functions to comunicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
   }
 ]

@@ -2,48 +2,58 @@
 title: "Projects"
 ---
 
-🚧 (wip)
+Welcome to my projects. (wip) 🚧
+
+The technologies I've used are ***highlighted***. Click on the project link for a detailed look!
 
 # AI Project Management
+Here you'll find projects where I perform a **Data Manager** role trying to answer the question: we have a data lake, what can we do with it?
 
-### Delivering an ML/AI Strategy
+#### Delivering an ML/AI Strategy
 
-# Supervised Learning
+# Data Science and AI
+Here you'll find projects where I've performed a **Data Scientist** role with focus on applied predictive modelling.
 
-## Machine Learning
-### [Advanced regression techniques with visual analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
+## Supervised Learning
+### - Machine Learning:
+#### [Advanced regression techniques with visual analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
 In this classic Kaggle project you can **follow my workflow** where I'll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy presentation on the EDA supported on visual analytics. Among the technologies I used are ***R*** with the state-of-the-art ***Tidyverse*** and ***Tidymodels*** packages. ***Quarto*** is the publishing system.
 
-## Deep Learning
-It is known that the most common type of dataset found in the industry is the **tabular** one. In this regard ML's non-parametric methods with ensembling via bagging or boosting are king.
+#### [Forecasting heat demand in buildings](https://ieeexplore.ieee.org/document/9144899){target="_blank"}
+With today's advances on remote sensing, optimal energy management can be performed in the cloud. This is the maxima of project [dynOpt-En](https://www.iosb.fraunhofer.de/de/projekte-produkte/dynopt-en.html){target="_blank"}, where I developed the two-days-ahead forecasting module for the MPC optimiser. Training a ***Generalised Additive Model*** [(GAM)](https://en.wikipedia.org/wiki/Generalized_additive_model){target="_blank"} and using the ***Dark Sky API***, free at that time, I manage to retrieve the weather variables from Numeric Weather Prediction models (NWP) needed as features.
 
-However, for datasets with high signal-to-noise ratio (SNR) like image recognition and language translation, DL methods are the best.
+### - Deep Learning:
+It is known that the most common type of dataset found in the industry is the **tabular** one. In this regard ML's non-parametric methods with ensembling via bagging or boosting are king. However, for big datasets with high signal-to-noise ratio (SNR) like image recognition and language translation, DL methods are unbeatable.
 
-## Survival Analysis
+#### [Water demand prediction with LSTMs for pumps control](https://www.researchgate.net/publication/349694237_Application_of_LSTM_Networks_for_Water_Demand_Prediction_in_Optimal_Pump_Control){target="_blank"}
+
+### - Survival Analysis:
 My professional entry point to what at that time was *Data Mining*, specifically in the area of reliability and risk assessment of power systems.
 
-
-# Unsupervised Learning
+## Unsupervised Learning
 Discovering patterns in the feature space.
 
 Very often we have to do some previoius ML for ML. Yes, that means performing some auto-labelling or at least identifying some possible ones.
 
-## Machine Learning:
-### [Hierarchical clustering of daily load profiles](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature){target="_blank"}
+### - Machine Learning:
+#### [Hierarchical clustering of daily load profiles](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature){target="_blank"}
 
 In the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. 
-Based on a famous proceeding with more than fourty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous profiles.
+Based on a famous proceeding with more than fourty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.
 
-# Data Visualisation
-## Interactive Dashboards
-### [IoT-Dashboards for energy management with Tableau](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
+### - Deep Learning:
 
-I designed these IoT-Dashboards with monitoring and BI purposes using *Tableau Desktop*. I also developed the whole E2E pipeline using technolgies like ***InfluxDB***, ***SQLite***, ***Python*** and ***Tableau Bridge*** to keep the dashboards up to date on a half-hour basis.
-This was the final part of the project "Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern", [dynOpt-En](https://www.iosb.fraunhofer.de/de/projekte-produkte/dynopt-en.html){target="_blank"}. 
+# Data Analysis and Visualisation 
 
-Moreover, I developed the core forecasting algorithm for the predictive control of the energy manager.
+Here you'll find projects where I've performed a **Data Analyst** role with more focus on the Business Intelligence (BI) and Visual Analytics (VA) sides.
 
-### [E2E automated energy reports for smart buildings](https://youtu.be/lk5LCfiX0Uk?t=2522){target="_blank"}
+## Dashboards and Reports Automation
+#### [IoT-Dashboards for energy management with Tableau](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
 
-In 2019 for the [EffMon](https://www.iosb.fraunhofer.de/en/projects-and-products/effmon-efficient-monitoring.html) project, I developed a set of fucntions to comunicate with Fraunhofer's FROST-Server, 
+I designed these IoT-Dashboards with monitoring and BI purposes using ***Tableau Desktop***. I also developed the whole E2E pipeline using technolgies like ***InfluxDB***, ***SQLite***, ***Python*** and ***Tableau Bridge*** to keep the dashboards up to date on a half-hour basis.
+This was the final part of the project [dynOpt-En](https://www.iosb.fraunhofer.de/de/projekte-produkte/dynopt-en.html){target="_blank"}. 
+
+#### [E2E automated energy reports for smart buildings](https://youtu.be/lk5LCfiX0Uk?t=2522){target="_blank"}
+
+In 2019 for the [EffMon](https://www.iosb.fraunhofer.de/en/projects-and-products/effmon-efficient-monitoring.html) project, I developed a set of functions to comunicate with Fraunhofer's ***FROST-Server***, 
 an Open Source implementation of the ***OGC SensorThings API***. Using ***Markdown*** publishing technologies, as well as libraries like ***ggplot***, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!

@@ -4,9 +4,9 @@ title: "Blog"
 
 🚧 (wip)
 
-Here you'll find linkd to field-related content written by me.
+Here you'll find the links to field-related content written by me.
 
-## The Inner Join of Electrical Engineering and Data Science
+## The inner-join of Electrical Engineering and Data Science
 <https://>
 
 

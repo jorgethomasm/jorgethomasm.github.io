@@ -21,16 +21,16 @@ about:
       href: mailto:jorgethomasm@ieee.org 
 ---
 
-# "Hello there"
+# Hello there
 
-Hi, I'm Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash's definition of paradise:
+I'm Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash's definition of paradise:
 
-&emsp; – *“This morning, with her, having coffee.”*
+&emsp; – *This morning, with her, having coffee.*
 
 Professionally I am an Electrical Engineer fond of sustainable energy sources, in consequence data and modelling. 
 Somehow, I've always manage to end up doing what I love the most: the development of data-driven algorithms either for providing business intelligence or supporting control systems.
 
-I live in Karlsruhe but I don't bike. If you want to know how I got into what today is Data Science click on the "About" tab. If you want to talk about data science, music or coffee instead, just drop me an [email](mailto:jorgethomasm@ieee.org).
+I don't bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click the "About" tab. If you want to talk about data science, music or coffee instead, just drop me an [email](mailto:jorgethomasm@ieee.org).
 
 Have a nice day or evening.
 
