@@ -6,7 +6,7 @@ title: "Projects"
 
 # AI Project Management
 
-### Delivery an ML/AI Strategy
+### Delivering an ML/AI Strategy
 
 # Supervised Learning
 
@@ -20,7 +20,7 @@ It is known that the most common type of dataset found in the industry is the **
 However, for datasets with high signal-to-noise ratio (SNR) like image recognition and language translation, DL methods are the best.
 
 ## Survival Analysis
-My professional entry point to what at that time was *Data Mining*, specifically in the area of reliability and risk assessment of power networks.
+My professional entry point to what at that time was *Data Mining*, specifically in the area of reliability and risk assessment of power systems.
 
 
 # Unsupervised Learning
@@ -36,11 +36,14 @@ Based on a famous proceeding with more than fourty citations in patents, I devel
 
 # Data Visualisation
 ## Interactive Dashboards
-### [Using Tableau for IoT-Dashboard and Energy Management](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
+### [IoT-Dashboards for energy management with Tableau](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
 
 I designed these IoT-Dashboards with monitoring and BI purposes using *Tableau Desktop*. I also developed the whole E2E pipeline using technolgies like ***InfluxDB***, ***SQLite***, ***Python*** and ***Tableau Bridge*** to keep the dashboards up to date on a half-hour basis.
 This was the final part of the project "Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern", [dynOpt-En](https://www.iosb.fraunhofer.de/de/projekte-produkte/dynopt-en.html){target="_blank"}. 
 
 Moreover, I developed the core forecasting algorithm for the predictive control of the energy manager.
 
-### [E2E Automated Reports for Smart Buildings]
+### [E2E automated energy reports for smart buildings](https://youtu.be/lk5LCfiX0Uk?t=2522){target="_blank"}
+
+In 2019 for the [EffMon](https://www.iosb.fraunhofer.de/en/projects-and-products/effmon-efficient-monitoring.html) project, I developed a set of fucntions to comunicate with Fraunhofer's FROST-Server, 
+an Open Source implementation of the ***OGC SensorThings API***. Using ***Markdown*** publishing technologies, as well as libraries like ***ggplot***, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!

@@ -172,14 +172,14 @@
     "href": "projects.html#survival-analysis",
     "title": "Projects",
     "section": "Survival Analysis",
-    "text": "Survival Analysis\nMy professional entry point to what at that time was Data Mining, specifically in the area of reliability and risk assessment of power networks."
+    "text": "Survival Analysis\nMy professional entry point to what at that time was Data Mining, specifically in the area of reliability and risk assessment of power systems."
   },
   {
     "objectID": "projects.html#interactive-dashboards",
     "href": "projects.html#interactive-dashboards",
     "title": "Projects",
     "section": "Interactive Dashboards",
-    "text": "Interactive Dashboards\n\nUsing Tableau for IoT-Dashboard and Energy Management\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project “Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern”, dynOpt-En.\nMoreover, I developed the core forecasting algorithm for the predictive control of the energy manager.\n\n\n[E2E Automated Reports for Smart Buildings]"
+    "text": "Interactive Dashboards\n\nIoT-Dashboards for energy management with Tableau\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project “Energiemanager zur angebots- und bedarfsgerechten Zuschaltung von Energieträgern”, dynOpt-En.\nMoreover, I developed the core forecasting algorithm for the predictive control of the energy manager.\n\n\nE2E automated energy reports for smart buildings\nIn 2019 for the EffMon project, I developed a set of fucntions to comunicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
   },
   {
     "objectID": "about.html#university-of-nottingham",
