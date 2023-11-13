@@ -2,17 +2,18 @@
 title: "Projects"
 ---
 
-Welcome to my projects. (wip) 🚧
+Welcome to my portfolio of projects. This is a continous *wip* 🚧. 
 
-The technologies I've used are ***highlighted***. Click on the project link for a detailed look!
+Here you'll find a mixture of professional, didactic and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm) competetions an the like.The technologies I've used are ***highlighted***. Click on each project title for a detailed look!
 
 # AI Project Management
-Here you'll find projects where I perform a **Data Manager** role trying to answer the question: we have a data lake, what can we do with it?
+Projects where I perform a **Data Manager** role trying to answer the question: we have a data lake, what can we do with it?
 
 #### Delivering an ML/AI Strategy
 
 # Data Science and AI
-Here you'll find projects where I've performed a **Data Scientist** role with focus on applied predictive modelling.
+
+Projects where I've performed a **Data Scientist** role with focus on applied predictive modelling.
 
 ## Supervised Learning
 ### - Machine Learning:

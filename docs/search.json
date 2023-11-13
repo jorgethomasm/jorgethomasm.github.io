@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jorge Thomas",
     "section": "",
-    "text": "Hello there\nI’m Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n  – This morning, with her, having coffee.\nProfessionally I am an Electrical Engineer fond of sustainable energy sources, in consequence data and modelling. Somehow, I’ve always manage to end up doing what I love the most: the development of data-driven algorithms either for providing business intelligence or supporting control systems.\nI don’t bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click the “About” tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or evening.\nJ. Thomas"
+    "text": "“Hello there”\nI’m Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n  – This morning, with her, having coffee.\nProfessionally I am an Electrical Engineer fond of sustainable energy sources; that means uncertainty, you know weather, and modelling. Somehow, I’ve always manage to end up doing what I love the most: the development of data-driven algorithms either for providing business intelligence or supporting control systems.\nI don’t bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click on the “About” tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or evening.\nJ. Thomas"
   },
   {
     "objectID": "about.html",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my projects. (wip) 🚧\nThe technologies I’ve used are highlighted. Click on the project link for a detailed look!"
+    "text": "Welcome to my portfolio of projects. This is a continous wip 🚧.\nHere you’ll find a mixture of professional, didactic and fun projects like Kaggle competetions an the like. The technologies I’ve used are highlighted. Click on the project link for a detailed look!"
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -271,5 +271,12 @@
     "title": "Projects",
     "section": "Dashboards and Reports Automation",
     "text": "Dashboards and Reports Automation\n\nIoT-Dashboards for energy management with Tableau\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\n\n\nE2E automated energy reports for smart buildings\nIn 2019 for the EffMon project, I developed a set of functions to comunicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
+  },
+  {
+    "objectID": "about.html#scientific-publications",
+    "href": "about.html#scientific-publications",
+    "title": "About",
+    "section": "Scientific Publications",
+    "text": "Scientific Publications\nClick on my ORCiD to see the list of my papers to date."
   }
 ]
