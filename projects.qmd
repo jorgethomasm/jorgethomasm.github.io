@@ -2,14 +2,18 @@
 title: "Projects"
 ---
 
-Welcome to my portfolio of projects. *wip* 🚧. 
+Welcome to my portfolio of projects. 
+
+*wip* 🚧
 
 Here you'll find a mixture of professional, didactic and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm) competetions an the like.The technologies I've used are ***highlighted***. Click on each project title for a detailed look!
 
-# AI Project Management
-We have a data lake, what can we do with it? This was methodologically answered in the following project:
+# Data Strategy
+Projects where I've performed a **Data Strategist** role.
 
-#### [Delivering an ML/AI Strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true)
+#### [Delivering an ML/AI strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true)
+We have a data lake, what can we do with it? New executive positions like Chief Data Officer (CDO) are in charge of such an answer.
+I developed this demo project with the objective of leaeerining thoroughly a framework and a methodology to assess AI implementations in real business projects. 
 
 # Data Science and AI
 
@@ -34,7 +38,7 @@ My professional entry point to what at that time was *Data Mining*, specifically
 ## Unsupervised Learning
 Discovering patterns in the feature space.
 
-Very often we have to do some previoius ML for ML. Yes, that means performing some auto-labelling or at least identifying some possible ones.
+Very often we have to do some previous ML for the sake of ML. Yes, that means performing some auto-labelling or at least identifying some possible ones.
 
 ### - Machine Learning:
 #### [Hierarchical clustering of daily load profiles](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature){target="_blank"}

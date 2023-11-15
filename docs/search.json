@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my portfolio of projects. This is a continous wip 🚧.\nHere you’ll find a mixture of professional, didactic and fun projects like Kaggle competetions an the like. The technologies I’ve used are highlighted. Click on the project link for a detailed look!"
+    "text": "Welcome to my portfolio of projects.\nwip 🚧\nHere you’ll find a mixture of professional, didactic and fun projects like Kaggle competetions an the like.The technologies I’ve used are highlighted. Click on each project title for a detailed look!"
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -249,7 +249,7 @@
     "href": "projects.html#unsupervised-learning",
     "title": "Projects",
     "section": "Unsupervised Learning",
-    "text": "Unsupervised Learning\nDiscovering patterns in the feature space.\nVery often we have to do some previoius ML for ML. Yes, that means performing some auto-labelling or at least identifying some possible ones.\n\n- Machine Learning:\n\nHierarchical clustering of daily load profiles\nIn the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a famous proceeding with more than fourty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.\n\n\n\n- Deep Learning:"
+    "text": "Unsupervised Learning\nDiscovering patterns in the feature space.\nVery often we have to do some previous ML for the sake of ML. Yes, that means performing some auto-labelling or at least identifying some possible ones.\n\n- Machine Learning:\n\nHierarchical clustering of daily load profiles\nIn the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a famous proceeding with more than fourty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.\n\n\n\n- Deep Learning:"
   },
   {
     "objectID": "projects.html#supervised-learnin",
@@ -277,6 +277,6 @@
     "href": "about.html#scientific-publications",
     "title": "About",
     "section": "Scientific Publications",
-    "text": "Scientific Publications\nClick on my ORCiD to see the list of my papers to date."
+    "text": "Scientific Publications\nClick on my ORCiD to see a list of my papers to date."
   }
 ]
