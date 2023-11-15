@@ -2,14 +2,14 @@
 title: "Projects"
 ---
 
-Welcome to my portfolio of projects. This is a continous *wip* 🚧. 
+Welcome to my portfolio of projects. *wip* 🚧. 
 
 Here you'll find a mixture of professional, didactic and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm) competetions an the like.The technologies I've used are ***highlighted***. Click on each project title for a detailed look!
 
 # AI Project Management
-Projects where I perform a **Data Manager** role trying to answer the question: we have a data lake, what can we do with it?
+We have a data lake, what can we do with it? This was methodologically answered in the following project:
 
-#### Delivering an ML/AI Strategy
+#### [Delivering an ML/AI Strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true)
 
 # Data Science and AI
 
