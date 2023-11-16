@@ -13,7 +13,7 @@ Projects where I've performed a **Data Strategist** role.
 
 #### [Delivering an ML/AI strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true){target="_blank"}
 We have a data lake, what can we do with it? New executive positions like Chief Data Officer (CDO) are in charge of such an answer.
-I developed this demo project with the objective of leaeerining thoroughly a framework and a methodology to assess AI implementations in real business projects. 
+I developed this demo project with the objective of learning thoroughly a framework and a methodology to assess impactful AI implementations in real business projects. 
 
 # Data Science and AI
 

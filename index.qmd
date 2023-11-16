@@ -21,7 +21,7 @@ about:
       href: mailto:jorgethomasm@ieee.org 
 ---
 
-# "Hello there"
+# Hello there
 
 I'm Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash's definition of paradise:
 
