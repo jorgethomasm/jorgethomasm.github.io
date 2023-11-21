@@ -1,10 +1,8 @@
 ---
 title: "About"
+reference-section-title: Scientific Publications
+nocite: '@*'
 ---
-
-#### Data was not used to be everywhere
-
-🚧 (wip)
 
 ## Education & Certificates
 
@@ -32,11 +30,9 @@ MSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (201
 ### Universidad del Zulia
 Dipl.-Ing. Electrical Engineering, VE (2000-2006)
 
-## Scientific Publications
-
-Click on my [ORCiD](https://orcid.org/0000-0001-8844-8421){target="_blank"} to see a list of my papers to date.
-
 ## Languages
 - Spanish (Native Language)
 - English (Fluent)
 - German (Fluent)
+
+[^footnote]: Check my [ORCiD](https://orcid.org/0000-0001-8844-8421) for more information.

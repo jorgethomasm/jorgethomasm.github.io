@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "🚧 (wip)"
+    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\nOngoing: 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
   },
   {
     "objectID": "blog.html",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my portfolio of projects.\nwip 🚧\nHere you’ll find a mixture of professional, didactic and fun projects like Kaggle competetions an the like.The technologies I’ve used are highlighted. Click on each project title for a detailed look!"
+    "text": "Welcome to my portfolio of projects.\nwip 🚧\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. The technologies I’ve used are highlighted. Click on each project title for a detailed look!"
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -227,8 +227,8 @@
     "objectID": "about.html#education-certificates",
     "href": "about.html#education-certificates",
     "title": "About",
-    "section": "Education & Certificates",
-    "text": "Education & Certificates\n\nIBM\nIBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\nUdacity\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\nStanford University\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\nUdemy\nOngoing: 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+    "section": "",
+    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\nOngoing: 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
   },
   {
     "objectID": "about.html#data-was-not-everywhere",
@@ -277,6 +277,20 @@
     "href": "about.html#scientific-publications",
     "title": "About",
     "section": "Scientific Publications",
-    "text": "Scientific Publications\nClick on my ORCiD to see a list of my papers to date."
+    "text": "Scientific Publications\nCheck my ORCiD to see a list of my papers to date."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nCheck my (https://orcid.org/0000-0001-8844-8421)↩︎\nCheck my (https://orcid.org/0000-0001-8844-8421)↩︎"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Jorge Thomas",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nCheck my ORCiD to see a list of my papers to date.↩︎"
   }
 ]

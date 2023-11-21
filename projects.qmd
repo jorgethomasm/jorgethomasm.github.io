@@ -6,9 +6,10 @@ Welcome to my portfolio of projects.
 
 *wip* 🚧
 
-Here you'll find a mixture of professional, didactic and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm) competetions an the like.The technologies I've used are ***highlighted***. Click on each project title for a detailed look!
+Here you'll find a mixture of professional, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm) competitions. The technologies I've used are ***highlighted***. Click on each project title for a detailed look!
 
 # Data Strategy
+
 Projects where I've performed a **Data Strategist** role.
 
 #### [Delivering an ML/AI strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true){target="_blank"}
