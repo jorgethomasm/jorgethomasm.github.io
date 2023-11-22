@@ -22,4 +22,4 @@ format:
 
 editor: visual
 bibliography: mypapers.bib
-biblio-style: ieee
+csl: ieee-csl-file.csl

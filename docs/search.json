@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\nOngoing: 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
   },
   {
     "objectID": "blog.html",
@@ -199,8 +199,8 @@
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
-    "section": "Education",
-    "text": "Education\n\nIBM\nIBM AI Engineering Professional Certificate (2023)\n\n\nUdacity\nNanodegree in AI for Buisness Leaders (2022)\n\n\nStanford University Online\nSTATSX0001: Statistical Learning (2022) (Trevor Hastie & Robert Tibshirani)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+    "section": "",
+    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
   },
   {
     "objectID": "about.html#courses",
@@ -284,7 +284,7 @@
     "href": "about.html#footnotes",
     "title": "About",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nCheck my (https://orcid.org/0000-0001-8844-8421)↩︎\nCheck my (https://orcid.org/0000-0001-8844-8421)↩︎"
+    "text": "Footnotes\n\n\nOngoing↩︎"
   },
   {
     "objectID": "index.html#footnotes",
@@ -292,5 +292,12 @@
     "title": "Jorge Thomas",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nCheck my ORCiD to see a list of my papers to date.↩︎"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "About",
+    "section": "Publications",
+    "text": "Publications"
   }
 ]

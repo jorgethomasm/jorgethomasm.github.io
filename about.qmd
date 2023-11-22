@@ -1,33 +1,35 @@
 ---
 title: "About"
-reference-section-title: Scientific Publications
+reference-section-title: "Publications"
 nocite: '@*'
 ---
 
-## Education & Certificates
+## Education
 
-### IBM
+#### IBM
 [IBM AI Engineering Professional Certificate, 2022-2023](https://www.coursera.org/account/accomplishments/specialization/certificate/6FLUFKVGSAST) (Joseph Santarcangelo et al.)
 
-### Udacity
+#### Udacity
 [AI for Buisness Leaders, Nanodegree, 2022](https://graduation.udacity.com/confirm/CAD3ZG3C) (William Ross & Luis Serrano)
 
 Introduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)
 
-### Stanford University
+#### Stanford University
 [STATSX0001 Online: Statistical Learning, 2022](https://courses.edx.org/certificates/82d8c63898494b70b9da2edb345746a1) (Trevor Hastie & Robert Tibshirani)
 
-### Udemy
-*Ongoing*: 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Angela Yu)
+#### Udemy
+100 Days of Code: The Complete Python Pro Bootcamp for 2023[^1] (Angela Yu)
+
+[^1]: Ongoing
 
 [Microsoft Power BI Desktop for Business Intelligence, 2022](https://www.udemy.com/certificate/UC-a6044754-ea60-4d78-9fc9-af19e82d298a/) (Maven Analytics, Chris Dutton)
 
 [Tableau A-Z: Hands-On Tableau Training for Data Science, 2019](https://www.udemy.com/certificate/UC-QBR0V6J7/) (Kirill Eremenko)
 
-### University of Nottingham
+#### University of Nottingham
 MSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)
 
-### Universidad del Zulia
+#### Universidad del Zulia
 Dipl.-Ing. Electrical Engineering, VE (2000-2006)
 
 ## Languages
@@ -35,4 +37,6 @@ Dipl.-Ing. Electrical Engineering, VE (2000-2006)
 - English (Fluent)
 - German (Fluent)
 
-[^footnote]: Check my [ORCiD](https://orcid.org/0000-0001-8844-8421) for more information.
+<!--
+footnote. 
+-->
