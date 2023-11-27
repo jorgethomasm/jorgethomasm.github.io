@@ -4,6 +4,16 @@ reference-section-title: "Journal Articles & Conference Proceedings"
 nocite: '@*'
 ---
 
+## Data used to be scarce and expensive
+
+My data journey started back in mids 2000s, working as a *Reliability Engineer* of Power Systems for the operator of the world's fourth biggest hydroelectric power plant [Guri](https://www.power-technology.com/features/feature-the-10-biggest-hydroelectric-power-plants-in-the-world/){target="_blank"}. The objective was ambitious:
+
+- *Dynamic monitoring of the risk of blackouts with probabilistic KPIs.*
+
+At that time the position Data Scientist didn't exist, but some books in the realm of *Data Mining* and *Emerging Computing Methods* trying to organise and formalise the field. However, the area of *Survival Analysis*, specifically *Reliability and Risk* were pretty matured, given their importance for the industry.
+
+Going forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn't easy, relying only on a mixture of internal ERP's data, world surveys and standards. A continuous push towards a ***data culture*** from the management above was key, and it still is!
+
 ## Education
 
 #### IBM
@@ -28,7 +38,7 @@ Introduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malo
 
 #### Kaggle
 
-[Feature Engineering](https://www.kaggle.com/learn/certification/jorgethomasm/feature-engineering){target="_blank"} (Ryan Holbrook & Alexis Cook)
+[Feature Engineering, 2023](https://www.kaggle.com/learn/certification/jorgethomasm/feature-engineering){target="_blank"} (Ryan Holbrook & Alexis Cook)
 
 #### University of Nottingham
 MSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)
@@ -42,6 +52,6 @@ Dipl.-Ing. Electrical Engineering, VE (2000-2006)
 - German (Fluent)
 
 ## Publications
-To date I've authored and co-authored several publications[^2] realated to *data analysis* in different domains like energy generation and distribution, IoT and utilities.
+To date I've authored and co-authored several publications[^2] realated to *data analysis* in different domains like *Power & Energy*, *IoT* and *utilities*.
 
 [^2]: Check my [ORCiD](https://orcid.org/0000-0001-8844-8421){target="_blank"}

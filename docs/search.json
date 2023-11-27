@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nFeature Engineering (Ryan Holbrook & Alexis Cook)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+    "text": "My data journey started back in mids 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured, given their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP’s data, world surveys and standards. A continuous push towards a data culture from the management above was key, and it still is!"
   },
   {
     "objectID": "blog.html",
@@ -199,8 +199,8 @@
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
-    "section": "",
-    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nFeature Engineering (Ryan Holbrook & Alexis Cook)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+    "section": "Education",
+    "text": "Education\n\nIBM\nIBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\nUdacity\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\nStanford University\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\nUdemy\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\nKaggle\nFeature Engineering, 2023 (Ryan Holbrook & Alexis Cook)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
   },
   {
     "objectID": "about.html#courses",
@@ -298,6 +298,20 @@
     "href": "about.html#publications",
     "title": "About",
     "section": "Publications",
-    "text": "Publications\nTo date I’ve authored and co-authored several publications2 realated to data analysis in different domains like energy generation and distribution, IoT and utilities."
+    "text": "Publications\nTo date I’ve authored and co-authored several publications2 realated to data analysis in different domains like Power & Energy, IoT and utilities."
+  },
+  {
+    "objectID": "about.html#data-was-scarce-and-expensive",
+    "href": "about.html#data-was-scarce-and-expensive",
+    "title": "About",
+    "section": "",
+    "text": "My data journey started in 2005, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri.\nAt that time there was no such a position as Data Scientist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured, given their importance for the industry.\nGoing forward in an organisation with a lack of statistical culture and a probabilistic thinking with less ammounts of data wasn’t easy, relying only on a mixture of internal ERP’s data, world surveys and standards. A continuous push towards a data culture from the mangement above was key, and it still is!\nAfter 10 years of the big data explosion, the"
+  },
+  {
+    "objectID": "about.html#data-used-to-be-scarce-and-expensive",
+    "href": "about.html#data-used-to-be-scarce-and-expensive",
+    "title": "About",
+    "section": "",
+    "text": "My data journey started back in mids 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured, given their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP’s data, world surveys and standards. A continuous push towards a data culture from the management above was key, and it still is!"
   }
 ]
