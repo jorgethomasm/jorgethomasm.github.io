@@ -2,11 +2,11 @@
 title: "Projects"
 ---
 
+🚧🚧🚧
+
 Welcome to my portfolio of projects. 
 
-*wip* 🚧
-
-Here you'll find a mixture of professional, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm) competitions. The technologies I've used are ***highlighted***. Click on each project title for a detailed look!
+Here you'll find a mixture of professional, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm){target="_blank"} competitions. The technologies I've used are ***highlighted***. Click on each project title for a detailed look!
 
 # Data Strategy
 

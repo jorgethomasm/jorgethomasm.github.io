@@ -23,13 +23,13 @@ about:
 
 # Hello there
 
-I'm Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash's definition of paradise:
+I'm Jorge and I like espresso brewed with light roast beans. I subscribe to Johnny Cash's definition of paradise:
 
 &emsp; – *This morning, with her, having coffee.*
 
-Professionally I am an Electrical Engineer fond of sustainable energy sources; that means uncertainty, you know weather, and modelling. Somehow, I've always manage to end up doing what I love the most: the development of data-driven algorithms either for providing business intelligence or supporting control systems.
+Professionally I am Electrical Engineer fond of sustainable energy sources; that means uncertainty, risk and  probabilities, you know weather. Somehow, I've always managed to end up doing what I love the most: the development of data-driven models either for providing business intelligence or supporting control systems.
 
-I don't bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click on the "About" tab. If you want to talk about data science, music or coffee instead, just drop me an [email](mailto:jorgethomasm@ieee.org).
+I don't bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click on the *About* tab. If you want to talk about data science, music or coffee instead, just drop me an [email](mailto:jorgethomasm@ieee.org).
 
 Have a nice day or evening.
 

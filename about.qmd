@@ -1,30 +1,34 @@
 ---
 title: "About"
-reference-section-title: "Publications"
+reference-section-title: "Journal Articles & Conference Proceedings"
 nocite: '@*'
 ---
 
 ## Education
 
 #### IBM
-[IBM AI Engineering Professional Certificate, 2022-2023](https://www.coursera.org/account/accomplishments/specialization/certificate/6FLUFKVGSAST) (Joseph Santarcangelo et al.)
+[IBM AI Engineering Professional Certificate, 2022-2023](https://www.coursera.org/account/accomplishments/specialization/certificate/6FLUFKVGSAST){target="_blank"} (Joseph Santarcangelo et al.)
 
 #### Udacity
-[AI for Buisness Leaders, Nanodegree, 2022](https://graduation.udacity.com/confirm/CAD3ZG3C) (William Ross & Luis Serrano)
+[AI for Buisness Leaders, Nanodegree, 2022](https://graduation.udacity.com/confirm/CAD3ZG3C){target="_blank"} (William Ross & Luis Serrano)
 
-Introduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)
+Introduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)
 
 #### Stanford University
-[STATSX0001 Online: Statistical Learning, 2022](https://courses.edx.org/certificates/82d8c63898494b70b9da2edb345746a1) (Trevor Hastie & Robert Tibshirani)
+[STATSX0001 Online: Statistical Learning, 2022](https://courses.edx.org/certificates/82d8c63898494b70b9da2edb345746a1){target="_blank"} (Trevor Hastie & Robert Tibshirani)
 
 #### Udemy
 100 Days of Code: The Complete Python Pro Bootcamp for 2023[^1] (Angela Yu)
 
 [^1]: Ongoing
 
-[Microsoft Power BI Desktop for Business Intelligence, 2022](https://www.udemy.com/certificate/UC-a6044754-ea60-4d78-9fc9-af19e82d298a/) (Maven Analytics, Chris Dutton)
+[Microsoft Power BI Desktop for Business Intelligence, 2022](https://www.udemy.com/certificate/UC-a6044754-ea60-4d78-9fc9-af19e82d298a/){target="_blank"} (Maven Analytics, Chris Dutton)
 
-[Tableau A-Z: Hands-On Tableau Training for Data Science, 2019](https://www.udemy.com/certificate/UC-QBR0V6J7/) (Kirill Eremenko)
+[Tableau A-Z: Hands-On Tableau Training for Data Science, 2019](https://www.udemy.com/certificate/UC-QBR0V6J7/){target="_blank"} (Kirill Eremenko)
+
+#### Kaggle
+
+[Feature Engineering](https://www.kaggle.com/learn/certification/jorgethomasm/feature-engineering){target="_blank"} (Ryan Holbrook & Alexis Cook)
 
 #### University of Nottingham
 MSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)
@@ -37,6 +41,7 @@ Dipl.-Ing. Electrical Engineering, VE (2000-2006)
 - English (Fluent)
 - German (Fluent)
 
-<!--
-footnote. 
--->
+## Publications
+To date I've authored and co-authored several publications[^2] realated to *data analysis* in different domains like energy generation and distribution, IoT and utilities.
+
+[^2]: Check my [ORCiD](https://orcid.org/0000-0001-8844-8421){target="_blank"}

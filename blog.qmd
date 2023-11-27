@@ -2,11 +2,11 @@
 title: "Blog"
 ---
 
-🚧 (wip)
+🚧🚧🚧
 
 Here you'll find the links to field-related content written by me.
 
+<!--
 ## The inner-join of Electrical Engineering and Data Science
 <https://>
-
-
+-->

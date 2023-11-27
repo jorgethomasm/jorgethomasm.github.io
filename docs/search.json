@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Jorge Thomas",
     "section": "",
-    "text": "Hello there\nI’m Jorge and I like espresso made with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n  – This morning, with her, having coffee.\nProfessionally I am an Electrical Engineer fond of sustainable energy sources; that means uncertainty, you know weather, and modelling. Somehow, I’ve always manage to end up doing what I love the most: the development of data-driven algorithms either for providing business intelligence or supporting control systems.\nI don’t bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click on the “About” tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or evening.\nJ. Thomas"
+    "text": "Hello there\nI’m Jorge and I like espresso brewed with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n  – This morning, with her, having coffee.\nProfessionally I am Electrical Engineer fond of sustainable energy sources; that means uncertainty, risk and probabilities, you know weather. Somehow, I’ve always managed to end up doing what I love the most: the development of data-driven models either for providing business intelligence or supporting control systems.\nI don’t bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click on the About tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or evening.\nJ. Thomas"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nFeature Engineering (Ryan Holbrook & Alexis Cook)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "🚧 (wip)\nHere you’ll find the links to field-related content written by me."
+    "text": "🚧🚧🚧\nHere you’ll find the links to field-related content written by me."
   },
   {
     "objectID": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my portfolio of projects.\nwip 🚧\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. The technologies I’ve used are highlighted. Click on each project title for a detailed look!"
+    "text": "🚧🚧🚧\nWelcome to my portfolio of projects.\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. The technologies I’ve used are highlighted. Click on each project title for a detailed look!"
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -200,7 +200,7 @@
     "href": "about.html#education",
     "title": "About",
     "section": "",
-    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning - Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+    "text": "IBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\n\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\n\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\n\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\n\nFeature Engineering (Ryan Holbrook & Alexis Cook)\n\n\n\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\n\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
   },
   {
     "objectID": "about.html#courses",
@@ -284,7 +284,7 @@
     "href": "about.html#footnotes",
     "title": "About",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nOngoing↩︎"
+    "text": "Footnotes\n\n\nOngoing↩︎\nCheck my ORCiD↩︎"
   },
   {
     "objectID": "index.html#footnotes",
@@ -298,6 +298,6 @@
     "href": "about.html#publications",
     "title": "About",
     "section": "Publications",
-    "text": "Publications"
+    "text": "Publications\nTo date I’ve authored and co-authored several publications2 realated to data analysis in different domains like energy generation and distribution, IoT and utilities."
   }
 ]
