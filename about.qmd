@@ -6,7 +6,7 @@ nocite: '@*'
 
 ## Data used to be scarce and expensive
 
-My data journey started back in mids 2000s, working as a *Reliability Engineer* of Power Systems for the operator of the world's fourth biggest hydroelectric power plant [Guri](https://www.power-technology.com/features/feature-the-10-biggest-hydroelectric-power-plants-in-the-world/){target="_blank"}. The objective was ambitious:
+My data journey started back in the mids 2000s, working as a *Reliability Engineer* of Power Systems for the operator of the world's fourth biggest hydroelectric power plant [Guri](https://www.power-technology.com/features/feature-the-10-biggest-hydroelectric-power-plants-in-the-world/){target="_blank"}. The objective was ambitious:
 
 - *Dynamic monitoring of the risk of blackouts with probabilistic KPIs.*
 

@@ -6,15 +6,16 @@ title: "Projects"
 
 Welcome to my portfolio of projects. 
 
-Here you'll find a mixture of professional, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm){target="_blank"} competitions. The technologies I've used are ***highlighted***. Click on each project title for a detailed look!
+Here you'll find a mixture of professional, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm){target="_blank"} competitions. 
+The technologies I've used are ***highlighted***. Click on each project title for a detailed look!
 
 # Data Strategy
 
 Projects where I've performed a **Data Strategist** role.
 
 #### [Delivering an ML/AI strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true){target="_blank"}
-We have a data lake, what can we do with it? New executive positions like Chief Data Officer (CDO) are in charge of such an answer.
-I developed this demo project with the objective of learning thoroughly a framework and a methodology to assess impactful AI implementations in real business projects. 
+We have a data lake, what can we do with it? New executive positions like CDO are in charge of looking for the answer.
+I developed this demo project with the objective of learning thoroughly a framework and methodology to assess impactful AI implementations in real business projects. 
 
 # Data Science and AI
 
@@ -32,14 +33,17 @@ With today's advances on remote sensing, optimal energy management can be perfor
 It is known that the most common type of dataset found in the industry is the **tabular** one. In this regard ML's non-parametric methods with ensembling via bagging or boosting are king. However, for big datasets with high signal-to-noise ratio (SNR) like image recognition and language translation, DL methods are unbeatable.
 
 #### [Water demand prediction with LSTMs for pumps control](https://www.researchgate.net/publication/349694237_Application_of_LSTM_Networks_for_Water_Demand_Prediction_in_Optimal_Pump_Control){target="_blank"}
+In this project my main task was the hyperparameter optimisation. Using ***Python's scikit-learn*** and ***TensorFlow*** wrapped in the ***Keras API***, 
+I was able to determine the optimal *batch size* and the *number of units* for the LSTM network.
 
 ### - Survival Analysis:
-My professional entry point to what at that time was *Data Mining*, specifically in the area of reliability and risk assessment of power systems.
+My professional entry point to data science, specifically in the area of reliability and risk assessment of power systems.
+
+#### [Electrical substation reliability assessment using the Monte Carlo chronological method: A Real Case Evaluation](https://de.mathworks.com/matlabcentral/fileexchange/10679-one-single-component-reliability-monte-carlo-chronological-method){target="_blank"}
+With 4.5 stars reviews, the almost 20 years-old ***Matlab*** code, which is a simplified version of the full project, has helped more than 3000 practitioners and students.
 
 ## Unsupervised Learning
-Discovering patterns in the feature space.
-
-Very often we have to do some previous ML for the sake of ML. Yes, that means performing some auto-labelling or at least identifying some possible ones.
+Very often we have to do some previous ML for the sake of ML. Yes, that means performing some auto-labelling or at least identifying some possible ones, i.e., discovering patterns in the feature space.
 
 ### - Machine Learning:
 #### [Hierarchical clustering of daily load profiles](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature){target="_blank"}
@@ -51,7 +55,7 @@ Based on a famous proceeding with more than fourty citations in patents, I devel
 
 # Data Analysis and Visualisation 
 
-Here you'll find projects where I've performed a **Data Analyst** role with more focus on the Business Intelligence (BI) and Visual Analytics (VA) sides.
+Projects where I've performed a **Data Analyst** role with more focus on the Business Intelligence (BI) and Visual Analytics (VA) sides.
 
 ## Dashboards and Reports Automation
 #### [IoT-Dashboards for energy management with Tableau](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
@@ -63,3 +67,8 @@ This was the final part of the project [dynOpt-En](https://www.iosb.fraunhofer.d
 
 In 2019 for the [EffMon](https://www.iosb.fraunhofer.de/en/projects-and-products/effmon-efficient-monitoring.html) project, I developed a set of functions to comunicate with Fraunhofer's ***FROST-Server***, 
 an Open Source implementation of the ***OGC SensorThings API***. Using ***Markdown*** publishing technologies, as well as libraries like ***ggplot***, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!
+
+## Data Extraction and Scrapping
+
+#### [Global Forecast System decoder](https://github.com/jorgethomasm/GFS-Decoder){target="_blank"}
+I wrote this application in ***.NET C#***. It scraps the ftp-site of NCEP's Global Forecast System, [GFS](https://www.nco.ncep.noaa.gov/pmb/products/gfs/) - Numeric Weather Prediction model (NWP). It also decodes (degribs) and disaggregates the weather forecast variables of any configured pair of geo-coordinates.
