@@ -22,7 +22,7 @@ Going forward with a stochastic thinking in an organisation with a lack of stati
 
 #### Udacity
 
-[AI for Buisness Leaders, Nanodegree, 2022](https://graduation.udacity.com/confirm/CAD3ZG3C){target="_blank"} (William Ross & Luis Serrano)
+[AI for Business Leaders, Nanodegree, 2022](https://graduation.udacity.com/confirm/CAD3ZG3C){target="_blank"} (William Ross & Luis Serrano)
 
 Introduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)
 

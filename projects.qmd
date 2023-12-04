@@ -40,7 +40,7 @@ Here you'll find a mixture of professional, prototype and fun projects like [Kag
 :::
 
 ::: {.column width="55%"}
-Follow **my workflow** to a **top 10%** solution for this classic Kaggle open competition. I'll give you some tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visual analytics. I used ***R*** with the state-of-the-art ***Tidyverse*** and ***Tidymodels*** metapackages. ***Quarto*** is the publishing system.
+Follow **my workflow** for a **top 10%** solution for this open Kaggle competition, predicting the house prices in Ames. I'll give you tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visuals. I used ***R*** with the state-of-the-art ***Tidyverse*** and ***Tidymodels*** metapackages. ***Quarto*** is the publishing system.
 
 **Keywords**: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models.
 :::
@@ -80,7 +80,7 @@ In this project my main task was the hyper-parameters optimisation. Using ***Pyt
 :::
 :::
 
-## Substation reliability assessment using the Monte Carlo method: A Real Case Evaluation
+## Substation reliability assessment using the Monte Carlo method: Real Case Evaluation
 
 ::: columns
 ::: {.column width="55%"}
@@ -116,7 +116,7 @@ In the modern world of sector-coupled utilities, ***time-series*** always have a
 
 # Data Visualisation
 
-## IoT-Dashboards for energy management with Tableau
+## IoT-Dashboards for energy management
 
 ::: columns
 ::: {.column width="55%"}
@@ -133,7 +133,7 @@ I designed these IoT-Dashboards with monitoring and BI purposes using ***Tableau
 :::
 :::
 
-## E2E automated energy reports for smart buildings
+## E2E monthly energy reports for smart buildings
 
 ::: columns
 ::: {.column width="40%"}

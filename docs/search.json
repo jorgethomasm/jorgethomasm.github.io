@@ -200,7 +200,7 @@
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\nIBM\nIBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\nUdacity\nAI for Buisness Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\nStanford University\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\nUdemy\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\nKaggle\nFeature Engineering, 2023 (Ryan Holbrook & Alexis Cook)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+    "text": "Education\n\nIBM\nIBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\nUdacity\nAI for Business Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\nStanford University\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\nUdemy\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\nKaggle\nFeature Engineering, 2023 (Ryan Holbrook & Alexis Cook)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
   },
   {
     "objectID": "about.html#courses",
@@ -354,7 +354,7 @@
     "href": "projects.html#advanced-regression-techniques-with-visual-analytics",
     "title": "Projects",
     "section": "Advanced regression techniques with visual analytics",
-    "text": "Advanced regression techniques with visual analytics\n\n\n\n\n\n\n\n\n\n\nFollow my workflow to a top 10% solution for this classic Kaggle open competition. I’ll give you some tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visual analytics. I used R with the state-of-the-art Tidyverse and Tidymodels metapackages. Quarto is the publishing system.\nKeywords: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models."
+    "text": "Advanced regression techniques with visual analytics\n\n\n\n\n\n\n\n\n\n\nFollow my workflow for a top 10% solution for this open Kaggle competition, predicting the house prices in Ames. I’ll give you tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visuals. I used R with the state-of-the-art Tidyverse and Tidymodels metapackages. Quarto is the publishing system.\nKeywords: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models."
   },
   {
     "objectID": "projects.html#forecasting-heat-demand-in-buildings",
@@ -390,5 +390,26 @@
     "title": "Projects",
     "section": "Substation reliability assessment using the Monte Carlo method: A Real Case Evaluation",
     "text": "Substation reliability assessment using the Monte Carlo method: A Real Case Evaluation\n\n\nWith 4.5/5 ⭐ review score, the almost 20 years-old Matlab code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the Monte Carlo Chronological Technique to simulate an artificial history of failures of the components of power substations, estimating load point stochastic KPIs like Estimated Energy Not Supplied (EENS) and Estimated Duration of Load Curtailment (EDLC).\nKeywords: Survival Analysis, Risk, Stochastic Processes, Markov Chains, Monte Carlo Simulation, Business Intelligence."
+  },
+  {
+    "objectID": "projects.html#substation-reliability-assessment-using-the-monte-carlo-method-real-case-evaluation",
+    "href": "projects.html#substation-reliability-assessment-using-the-monte-carlo-method-real-case-evaluation",
+    "title": "Projects",
+    "section": "Substation reliability assessment using the Monte Carlo method: Real Case Evaluation",
+    "text": "Substation reliability assessment using the Monte Carlo method: Real Case Evaluation\n\n\nWith 4.5/5 ⭐ review score, the almost 20 years-old Matlab code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the Monte Carlo Chronological Technique to simulate an artificial history of failures of the components of power substations, estimating load point stochastic KPIs like Estimated Energy Not Supplied (EENS) and Estimated Duration of Load Curtailment (EDLC).\nKeywords: Survival Analysis, Risk, Stochastic Processes, Markov Chains, Monte Carlo Simulation, Business Intelligence."
+  },
+  {
+    "objectID": "projects.html#iot-dashboards-for-energy-management",
+    "href": "projects.html#iot-dashboards-for-energy-management",
+    "title": "Projects",
+    "section": "IoT-Dashboards for energy management",
+    "text": "IoT-Dashboards for energy management\n\n\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technologies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\nKeywords: Data Engineering, Tableau, Dashboards, Monitoring, IoT, Energy Management."
+  },
+  {
+    "objectID": "projects.html#e2e-monthly-energy-reports-for-smart-buildings",
+    "href": "projects.html#e2e-monthly-energy-reports-for-smart-buildings",
+    "title": "Projects",
+    "section": "E2E monthly energy reports for smart buildings",
+    "text": "E2E monthly energy reports for smart buildings\n\n\n\n\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.\nKeywords: Advanced Analytics, Reports Automation, Monitoring, IoT, Energy Management."
   }
 ]
