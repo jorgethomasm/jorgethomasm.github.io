@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jorge Thomas",
     "section": "",
-    "text": "Hello there\nI’m Jorge and I like espresso brewed with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n  – This morning, with her, having coffee.\nProfessionally I am Electrical Engineer fond of sustainable energy sources; that means uncertainty, risk and probabilities, you know weather. Somehow, I’ve always managed to end up doing what I love the most: the development of data-driven models either for providing business intelligence or supporting control systems.\nI don’t bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click on the About tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or evening.\nJ. Thomas"
+    "text": "Hello there\nI’m Jorge and I like espresso brewed with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n\n\n\n“This morning, with her, having coffee.”\n\n\n\nProfessionally I am Electrical Engineer fond of sustainable energy sources; that means uncertainty, risk and probabilities, you know weather. Somehow, I’ve always managed to end up doing what I love the most: the development of data-driven models either for providing business intelligence or supporting control systems.\nI don’t bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click on the About tab. If you want to talk about data science, music or coffee instead, just drop me an email.\nHave a nice day or evening.\n\n\nJ. Thomas"
   },
   {
     "objectID": "about.html",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my portfolio!\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. There are four main categories: Data Strategy, Machine Learning & AI, Data Visualisation and Others. Technologies I’ve used are highlighted.\nClick on each thumbnail for details."
+    "text": "Welcome to my portfolio!\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. Technologies I’ve used are highlighted. There are four main categories:\nClick on each thumbnail for details."
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -326,7 +326,7 @@
     "href": "projects.html#delivering-an-mlai-strategy",
     "title": "Projects",
     "section": "Delivering an ML/AI strategy",
-    "text": "Delivering an ML/AI strategy\n\n\n“We have a data lake; what can we do?” I developed this demo project with the objective of thoroughly learning a methodology to assess impactful AI implementations in real business projects (Use Cases). I used tools like Storyboards, Prioritisation Grids, 5 V’s Framework and Potter’s Boxes, all this within a ship & iterate philosophy in order to gather quick feedback.\nKeywords: AI for Business, AI Architecture, Data Strategy, Data Products."
+    "text": "Delivering an ML/AI strategy\n\n\n“We have a data lake; what can we do?” I developed this demo project with the objective of thoroughly learning a methodology to assess impactful AI implementations in real business projects (Use Cases). I used tools like Storyboards, Prioritisation Grids, 5 V’s Framework and Potter’s Boxes, all this within a ship & iterate philosophy in order to gather quick feedback.\n\nKeywords: AI for Business, AI Architecture, Data Strategy, Data Products."
   },
   {
     "objectID": "projects.html#iot-dashboards-for-energy-management-with-tableau",
@@ -347,28 +347,28 @@
     "href": "projects.html#global-forecast-system-decoder",
     "title": "Projects",
     "section": "Global Forecast System decoder",
-    "text": "Global Forecast System decoder\n\n\nI wrote this application in .NET C#. It scraps the ftp-site of NCEP’s Global Forecast System, GFS - Numeric Weather Prediction model (NWP). It also decodes (degribs) and disaggregates the weather forecast variables of any configured pair of geographical coordinates.\nKeywords: Software Development, Weather Data, Photovoltaic Power Forecasting."
+    "text": "Global Forecast System decoder\n\n\nI wrote this application in .NET C#. It scraps the ftp-site of NCEP’s Global Forecast System, GFS - Numeric Weather Prediction model (NWP). It also decodes (degribs) and disaggregates the weather forecast variables of any configured pair of geographical coordinates.\n\nKeywords: Software Development, Weather Data, Photovoltaic Power Forecasting."
   },
   {
     "objectID": "projects.html#advanced-regression-techniques-with-visual-analytics",
     "href": "projects.html#advanced-regression-techniques-with-visual-analytics",
     "title": "Projects",
     "section": "Advanced regression techniques with visual analytics",
-    "text": "Advanced regression techniques with visual analytics\n\n\n\n\n\n\n\n\n\n\nFollow my workflow for a top 10% solution for this open Kaggle competition, predicting the house prices in Ames. I’ll give you tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visuals. I used R with the state-of-the-art Tidyverse and Tidymodels metapackages. Quarto is the publishing system.\nKeywords: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models."
+    "text": "Advanced regression techniques with visual analytics\n\n\n\n\n\n\n\n\n\n\nFollow my workflow for a top 10% solution for this open Kaggle competition, predicting the house prices in Ames. I’ll give you tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visuals. I used R with the state-of-the-art Tidyverse and Tidymodels metapackages. Quarto is the publishing system.\n\nKeywords: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models."
   },
   {
     "objectID": "projects.html#forecasting-heat-demand-in-buildings",
     "href": "projects.html#forecasting-heat-demand-in-buildings",
     "title": "Projects",
     "section": "Forecasting heat demand in buildings",
-    "text": "Forecasting heat demand in buildings\n\n\nWith today’s advances on remote sensing, optimal energy management can be performed in the cloud. This is the maxima of project dynOpt-En, where I developed the two-days-ahead forecasting module for the MPC optimiser. Training a Generalised Additive Model (GAM) and using the Dark Sky API, free at that time, I manage to retrieve the weather variables from Numeric Weather Prediction models (NWP) needed as features.\nKeywords: Machine Learning, Supervised Learning, Time-Series, Forecasting, GAM."
+    "text": "Forecasting heat demand in buildings\n\n\nWith today’s advances on remote sensing, optimal energy management can be performed in the cloud. This is the maxima of project dynOpt-En, where I developed the two-days-ahead forecasting module for the MPC optimiser. Training a Generalised Additive Model (GAM) and using the Dark Sky API, free at that time, I manage to retrieve the weather variables from Numeric Weather Prediction models (NWP) needed as features.\n\nKeywords: Machine Learning, Supervised Learning, Time-Series, Forecasting, GAM."
   },
   {
     "objectID": "projects.html#water-demand-prediction-with-lstms-for-pumps-control",
     "href": "projects.html#water-demand-prediction-with-lstms-for-pumps-control",
     "title": "Projects",
     "section": "Water demand prediction with LSTMs for pumps control",
-    "text": "Water demand prediction with LSTMs for pumps control\n\n\n\n\n\n\n\n\n\n\nIn this project my main task was the hyper-parameters optimisation. Using Python’s scikit-learn and TensorFlow wrapped in the Keras API, I was able to determine the optimal batch size and the number of units for the LSTM network.\nKeywords: Deep Learning, Supervised Learning, Time-Series, Forecasting, LSTMs."
+    "text": "Water demand prediction with LSTMs for pumps control\n\n\n\n\n\n\n\n\n\n\nIn this project my main task was the hyper-parameters optimisation. Using Python’s scikit-learn and TensorFlow wrapped in the Keras API, I was able to determine the optimal batch size and the number of units for the LSTM network.\n\nKeywords: Deep Learning, Supervised Learning, Time-Series, Forecasting, LSTMs."
   },
   {
     "objectID": "projects.html#electrical-substation-reliability-assessment-using-the-monte-carlo-chronological-method-a-real-case-evaluation",
@@ -382,7 +382,7 @@
     "href": "projects.html#hierarchical-clustering-of-daily-load-profiles",
     "title": "Projects",
     "section": "Hierarchical clustering of daily load profiles",
-    "text": "Hierarchical clustering of daily load profiles\n\n\n\n\n\n\n\n\n\n\nIn the modern world of sector-coupled utilities, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a proceeding with more than fourty patents, I developed this hierarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.\nKeywords: Machine Learning, Unsupervised Learning, Classification, Time-Series, Patterns."
+    "text": "Hierarchical clustering of daily load profiles\n\n\n\n\n\n\n\n\n\n\nIn the modern world of sector-coupled utilities, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a proceeding with more than fourty patents, I developed this hierarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.\n\nKeywords: Machine Learning, Unsupervised Learning, Classification, Time-Series, Patterns."
   },
   {
     "objectID": "projects.html#substation-reliability-assessment-using-the-monte-carlo-method-a-real-case-evaluation",
@@ -403,13 +403,20 @@
     "href": "projects.html#iot-dashboards-for-energy-management",
     "title": "Projects",
     "section": "IoT-Dashboards for energy management",
-    "text": "IoT-Dashboards for energy management\n\n\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technologies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\nKeywords: Data Engineering, Tableau, Dashboards, Monitoring, IoT, Energy Management."
+    "text": "IoT-Dashboards for energy management\n\n\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technologies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\n\nKeywords: Data Engineering, Tableau, Dashboards, Monitoring, IoT, Energy Management."
   },
   {
     "objectID": "projects.html#e2e-monthly-energy-reports-for-smart-buildings",
     "href": "projects.html#e2e-monthly-energy-reports-for-smart-buildings",
     "title": "Projects",
     "section": "E2E monthly energy reports for smart buildings",
-    "text": "E2E monthly energy reports for smart buildings\n\n\n\n\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.\nKeywords: Advanced Analytics, Reports Automation, Monitoring, IoT, Energy Management."
+    "text": "E2E monthly energy reports for smart buildings\n\n\n\n\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.\n\nKeywords: Advanced Analytics, Reports Automation, Monitoring, IoT, Energy Management."
+  },
+  {
+    "objectID": "projects.html#substation-reliability-assessment-using-monte-carlo-methods-real-case-evaluation",
+    "href": "projects.html#substation-reliability-assessment-using-monte-carlo-methods-real-case-evaluation",
+    "title": "Projects",
+    "section": "Substation reliability assessment using Monte Carlo methods: Real Case Evaluation",
+    "text": "Substation reliability assessment using Monte Carlo methods: Real Case Evaluation\n\n\nWith 4.5/5 ⭐ review score, the almost 20 years-old Matlab code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the Monte Carlo Chronological Technique to simulate an artificial history of failures of the components of power substations, estimating load point stochastic KPIs like Estimated Energy Not Supplied (EENS) and Estimated Duration of Load Curtailment (EDLC).\n\nKeywords: Survival Analysis, Risk, Stochastic Processes, Markov Chains, Monte Carlo Simulation, Business Intelligence."
   }
 ]

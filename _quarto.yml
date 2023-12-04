@@ -5,6 +5,11 @@ project:
 website:
   title: "Welcome"
   favicon: ./imgs/favicon-32x32.png
+  page-footer:     
+    left: | 
+      Made with [ Posit Quarto](https://quarto.org)
+    background: "#78C2AD" 
+
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +17,7 @@ website:
       - projects.qmd
       - blog.qmd
       - about.qmd  
-
+ 
 format:
   html:
     from: markdown+emoji

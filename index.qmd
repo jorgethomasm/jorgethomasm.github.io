@@ -25,7 +25,11 @@ about:
 
 I'm Jorge and I like espresso brewed with light roast beans. I subscribe to Johnny Cash's definition of paradise:
 
-&emsp; – *This morning, with her, having coffee.*
+<figure class="text-end">
+  <blockquote class="blockquote">
+    <p class="mb-0">*"This morning, with her, having coffee."*</p>  
+  </blockquote> 
+</figure>
 
 Professionally I am Electrical Engineer fond of sustainable energy sources; that means uncertainty, risk and  probabilities, you know weather. Somehow, I've always managed to end up doing what I love the most: the development of data-driven models either for providing business intelligence or supporting control systems.
 
@@ -33,4 +37,8 @@ I don't bike but I live in Karlsruhe. If you want to know how I got into what to
 
 Have a nice day or evening.
 
-*J. Thomas*
+<figure class="text-end">
+  <figcaption class="blockquote-footer">
+    <cite title="Source Title">*J. Thomas*</cite>
+  </figcaption>
+</figure>
