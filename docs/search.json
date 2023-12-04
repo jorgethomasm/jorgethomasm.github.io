@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my Data Science portfolio. Here you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. The technologies I’ve used are highlighted. Click on each project title for details!"
+    "text": "Welcome to my portfolio!\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. There are four main categories: Data Strategy, Machine Learning & AI, Data Visualisation and Others. Technologies I’ve used are highlighted.\nClick on each thumbnail for details."
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -242,7 +242,7 @@
     "href": "projects.html#supervised-learning",
     "title": "Projects",
     "section": "Supervised Learning",
-    "text": "Supervised Learning\n\n- Machine Learning:\n\nAdvanced regression techniques with visual analytics\n\n\n\n\n\n\nFollow my workflow to a top 10% solution for this classic Kaggle open competition. I’ll give you some tips along the way, developing pipelines on the ETL phase, as well as a tidy presentation on the EDA supported on the best visual analytics. I used R with the state-of-the-art Tidyverse and Tidymodels packages. Quarto is the publishing system.\n\n\n\n\nForecasting heat demand in buildings\n\n\nWith today’s advances on remote sensing, optimal energy management can be performed in the cloud. This is the maxima of project dynOpt-En, where I developed the two-days-ahead forecasting module for the MPC optimiser. Training a Generalised Additive Model (GAM) and using the Dark Sky API, free at that time, I manage to retrieve the weather variables from Numeric Weather Prediction models (NWP) needed as features.\n\n\n\n\n\n\n\n\n\n- Deep Learning:\n\nWater demand prediction with LSTMs for pumps control\n\n\n\n\n\n\nIn this project my main task was the hyper-parameters optimisation. Using Python’s scikit-learn and TensorFlow wrapped in the Keras API, I was able to determine the optimal batch size and the number of units for the LSTM network.\n\n\n\n\n\n- Survival Analysis:\nMy professional entry point to data science in the area of risk assessment of power systems.\n\nElectrical substation reliability assessment using the Monte Carlo chronological method: A Real Case Evaluation\n\n\nWith 4.5/5 ⭐ review score, the almost 20 years-old Matlab code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the Monte Carlo Chronological Technique to simulate an artificial history of failures of power substations, this to estimate load point stochastic KPIs like Estimated Energy Not Supplied (EENS), Estimated Duration of Load Curtailment (EDLC). In addition, I used analytical techniques like Markov Chains modelling in order to validate simulation results."
+    "text": "Supervised Learning\n\n- Machine Learning:"
   },
   {
     "objectID": "projects.html#unsupervised-learning",
@@ -326,27 +326,69 @@
     "href": "projects.html#delivering-an-mlai-strategy",
     "title": "Projects",
     "section": "Delivering an ML/AI strategy",
-    "text": "Delivering an ML/AI strategy\n\n\n“We have a data lake! So what can we do?” I developed this demo project with the objective of thoroughly learning a methodology to assess impactful AI implementations in real business projects (Use Cases). I used tools like Storyboards, Prioritisation Grids, 5 V’s Framework and Potter’s Boxes, all this within a ship & iterate philosophy in order to gather quick feedback."
+    "text": "Delivering an ML/AI strategy\n\n\n“We have a data lake; what can we do?” I developed this demo project with the objective of thoroughly learning a methodology to assess impactful AI implementations in real business projects (Use Cases). I used tools like Storyboards, Prioritisation Grids, 5 V’s Framework and Potter’s Boxes, all this within a ship & iterate philosophy in order to gather quick feedback.\nKeywords: AI for Business, AI Architecture, Data Strategy, Data Products."
   },
   {
     "objectID": "projects.html#iot-dashboards-for-energy-management-with-tableau",
     "href": "projects.html#iot-dashboards-for-energy-management-with-tableau",
     "title": "Projects",
     "section": "IoT-Dashboards for energy management with Tableau",
-    "text": "IoT-Dashboards for energy management with Tableau\n\n\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technologies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En."
+    "text": "IoT-Dashboards for energy management with Tableau\n\n\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technologies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\nKeywords: Data Engineering, Tableau, Dashboards, Monitoring, IoT, Energy Management."
   },
   {
     "objectID": "projects.html#e2e-automated-energy-reports-for-smart-buildings",
     "href": "projects.html#e2e-automated-energy-reports-for-smart-buildings",
     "title": "Projects",
     "section": "E2E automated energy reports for smart buildings",
-    "text": "E2E automated energy reports for smart buildings\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
+    "text": "E2E automated energy reports for smart buildings\n\n\n\n\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.\nKeywords: Advanced Analytics, Reports Automation, Monitoring, IoT, Energy Management."
   },
   {
     "objectID": "projects.html#global-forecast-system-decoder",
     "href": "projects.html#global-forecast-system-decoder",
     "title": "Projects",
     "section": "Global Forecast System decoder",
-    "text": "Global Forecast System decoder\n\n\nI wrote this application in .NET C#. It scraps the ftp-site of NCEP’s Global Forecast System, GFS - Numeric Weather Prediction model (NWP). It also decodes (degribs) and disaggregates the weather forecast variables of any configured pair of geographical coordinates."
+    "text": "Global Forecast System decoder\n\n\nI wrote this application in .NET C#. It scraps the ftp-site of NCEP’s Global Forecast System, GFS - Numeric Weather Prediction model (NWP). It also decodes (degribs) and disaggregates the weather forecast variables of any configured pair of geographical coordinates.\nKeywords: Software Development, Weather Data, Photovoltaic Power Forecasting."
+  },
+  {
+    "objectID": "projects.html#advanced-regression-techniques-with-visual-analytics",
+    "href": "projects.html#advanced-regression-techniques-with-visual-analytics",
+    "title": "Projects",
+    "section": "Advanced regression techniques with visual analytics",
+    "text": "Advanced regression techniques with visual analytics\n\n\n\n\n\n\n\n\n\n\nFollow my workflow to a top 10% solution for this classic Kaggle open competition. I’ll give you some tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visual analytics. I used R with the state-of-the-art Tidyverse and Tidymodels metapackages. Quarto is the publishing system.\nKeywords: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models."
+  },
+  {
+    "objectID": "projects.html#forecasting-heat-demand-in-buildings",
+    "href": "projects.html#forecasting-heat-demand-in-buildings",
+    "title": "Projects",
+    "section": "Forecasting heat demand in buildings",
+    "text": "Forecasting heat demand in buildings\n\n\nWith today’s advances on remote sensing, optimal energy management can be performed in the cloud. This is the maxima of project dynOpt-En, where I developed the two-days-ahead forecasting module for the MPC optimiser. Training a Generalised Additive Model (GAM) and using the Dark Sky API, free at that time, I manage to retrieve the weather variables from Numeric Weather Prediction models (NWP) needed as features.\nKeywords: Machine Learning, Supervised Learning, Time-Series, Forecasting, GAM."
+  },
+  {
+    "objectID": "projects.html#water-demand-prediction-with-lstms-for-pumps-control",
+    "href": "projects.html#water-demand-prediction-with-lstms-for-pumps-control",
+    "title": "Projects",
+    "section": "Water demand prediction with LSTMs for pumps control",
+    "text": "Water demand prediction with LSTMs for pumps control\n\n\n\n\n\n\n\n\n\n\nIn this project my main task was the hyper-parameters optimisation. Using Python’s scikit-learn and TensorFlow wrapped in the Keras API, I was able to determine the optimal batch size and the number of units for the LSTM network.\nKeywords: Deep Learning, Supervised Learning, Time-Series, Forecasting, LSTMs."
+  },
+  {
+    "objectID": "projects.html#electrical-substation-reliability-assessment-using-the-monte-carlo-chronological-method-a-real-case-evaluation",
+    "href": "projects.html#electrical-substation-reliability-assessment-using-the-monte-carlo-chronological-method-a-real-case-evaluation",
+    "title": "Projects",
+    "section": "Electrical substation reliability assessment using the Monte Carlo chronological method: A Real Case Evaluation",
+    "text": "Electrical substation reliability assessment using the Monte Carlo chronological method: A Real Case Evaluation\n\n\nWith 4.5/5 ⭐ review score, the almost 20 years-old Matlab code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the Monte Carlo Chronological Technique to simulate an artificial history of failures of the components of power substations, estimating load point stochastic KPIs like Estimated Energy Not Supplied (EENS) and Estimated Duration of Load Curtailment (EDLC).\nKeywords: Survival Analysis, Risk, Stochastic Processes, Markov Chains, Monte Carlo Simulation, Business Intelligence."
+  },
+  {
+    "objectID": "projects.html#hierarchical-clustering-of-daily-load-profiles",
+    "href": "projects.html#hierarchical-clustering-of-daily-load-profiles",
+    "title": "Projects",
+    "section": "Hierarchical clustering of daily load profiles",
+    "text": "Hierarchical clustering of daily load profiles\n\n\n\n\n\n\n\n\n\n\nIn the modern world of sector-coupled utilities, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a proceeding with more than fourty patents, I developed this hierarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.\nKeywords: Machine Learning, Unsupervised Learning, Classification, Time-Series, Patterns."
+  },
+  {
+    "objectID": "projects.html#substation-reliability-assessment-using-the-monte-carlo-method-a-real-case-evaluation",
+    "href": "projects.html#substation-reliability-assessment-using-the-monte-carlo-method-a-real-case-evaluation",
+    "title": "Projects",
+    "section": "Substation reliability assessment using the Monte Carlo method: A Real Case Evaluation",
+    "text": "Substation reliability assessment using the Monte Carlo method: A Real Case Evaluation\n\n\nWith 4.5/5 ⭐ review score, the almost 20 years-old Matlab code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the Monte Carlo Chronological Technique to simulate an artificial history of failures of the components of power substations, estimating load point stochastic KPIs like Estimated Energy Not Supplied (EENS) and Estimated Duration of Load Curtailment (EDLC).\nKeywords: Survival Analysis, Risk, Stochastic Processes, Markov Chains, Monte Carlo Simulation, Business Intelligence."
   }
 ]

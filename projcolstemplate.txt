@@ -37,3 +37,10 @@ It is known that the most common type of dataset found in the industry is the **
 In this regard ML's non-parametric methods with ensembling via bagging or boosting are king. 
 However, for big datasets with high signal-to-noise ratio (SNR) like image recognition and 
 language translation, DL methods are unbeatable.
+## Unsupervised Learning
+
+Very often we have to do some previous ML for the sake of ML. Yes, that means performing some auto-labelling or at least identifying some possible ones, i.e., discovering patterns in the feature space.
+
+### - Survival Analysis:
+
+My professional entry point to data science in the area of risk assessment of power systems.

@@ -2,68 +2,72 @@
 title: "Projects"
 ---
 
-Welcome to my Data Science portfolio. Here you'll find a mixture of professional, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm){target="_blank"} competitions. The technologies I've used are ***highlighted***. Click on each project title for details!
+Welcome to my portfolio!
+
+Here you'll find a mixture of professional, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm){target="_blank"} competitions. There are four main categories: **Data Strategy**, **Machine Learning & AI**, **Data Visualisation** and **Others**. Technologies I've used are ***highlighted***.
+
+**Click** on each **thumbnail** for details.
 
 # Data Strategy
 
-## [Delivering an ML/AI strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true){target="_blank"}
+## Delivering an ML/AI strategy
 
 ::: columns
 ::: {.column width="55%"}
-"We have a data lake! So what can we do?" I developed this demo project with the objective of thoroughly learning a methodology to assess impactful AI implementations in real business projects (Use Cases). I used tools like ***Storyboards***, ***Prioritisation Grids***, ***5 V's Framework*** and ***Potter's Boxes***, all this within a ***ship & iterate*** philosophy in order to gather quick feedback.
+"We have a data lake; what can we do?" I developed this demo project with the objective of thoroughly learning a methodology to assess impactful AI implementations in real business projects (Use Cases). I used tools like ***Storyboards***, ***Prioritisation Grids***, ***5 V's Framework*** and ***Potter's Boxes***, all this within a **ship & iterate** philosophy in order to gather quick feedback.
+
+**Keywords**: AI for Business, AI Architecture, Data Strategy, Data Products.
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-![](imgs/jthom_ml_impact.png)
+[![](imgs/jthom_ml_impact.png)](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true)
 :::
 :::
 
-# Machine Learning and AI
+# Machine Learning & AI
 
-## Supervised Learning
-
-### - Machine Learning:
-
-#### [Advanced regression techniques with visual analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
+## Advanced regression techniques with visual analytics
 
 ::: columns
 ::: {.column width="40%"}
-![](imgs/jthom_ames.png)
+[![](imgs/jthom_ames.png)](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="55%"}
-Follow **my workflow** to a **top 10%** solution for this classic Kaggle open competition. I'll give you some tips along the way, developing pipelines on the ETL phase, as well as a tidy presentation on the EDA supported on the best visual analytics. I used ***R*** with the state-of-the-art ***Tidyverse*** and ***Tidymodels*** packages. ***Quarto*** is the publishing system.
+Follow **my workflow** to a **top 10%** solution for this classic Kaggle open competition. I'll give you some tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visual analytics. I used ***R*** with the state-of-the-art ***Tidyverse*** and ***Tidymodels*** metapackages. ***Quarto*** is the publishing system.
+
+**Keywords**: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models.
 :::
 :::
 
-#### [Forecasting heat demand in buildings](https://ieeexplore.ieee.org/document/9144899){target="_blank"}
+## Forecasting heat demand in buildings
 
 ::: columns
 ::: {.column width="55%"}
 With today's advances on remote sensing, optimal energy management can be performed in the cloud. This is the maxima of project [dynOpt-En](https://www.iosb.fraunhofer.de/de/projekte-produkte/dynopt-en.html){target="_blank"}, where I developed the two-days-ahead forecasting module for the MPC optimiser. Training a ***Generalised Additive Model*** [(GAM)](https://en.wikipedia.org/wiki/Generalized_additive_model){target="_blank"} and using the ***Dark Sky API***, free at that time, I manage to retrieve the weather variables from Numeric Weather Prediction models (NWP) needed as features.
+
+**Keywords**: Machine Learning, Supervised Learning, Time-Series, Forecasting, GAM.
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-![](imgs/jthom_heatdemand.png)
+[![](imgs/jthom_heatdemand.png)](https://ieeexplore.ieee.org/document/9144899)
 :::
 :::
 
-### - Deep Learning:
-
-#### [Water demand prediction with LSTMs for pumps control](https://www.researchgate.net/publication/349694237_Application_of_LSTM_Networks_for_Water_Demand_Prediction_in_Optimal_Pump_Control){target="_blank"}
+## Water demand prediction with LSTMs for pumps control
 
 ::: columns
 ::: {.column width="40%"}
-![](imgs/jthom_waterlstm.png)
+[![](imgs/jthom_waterlstm.png)](https://www.researchgate.net/publication/349694237_Application_of_LSTM_Networks_for_Water_Demand_Prediction_in_Optimal_Pump_Control)
 :::
 
 ::: {.column width="5%"}
@@ -71,39 +75,33 @@ With today's advances on remote sensing, optimal energy management can be perfor
 
 ::: {.column width="55%"}
 In this project my main task was the hyper-parameters optimisation. Using ***Python's scikit-learn*** and ***TensorFlow*** wrapped in the ***Keras API***, I was able to determine the optimal *batch size* and the *number of units* for the LSTM network.
+
+**Keywords**: Deep Learning, Supervised Learning, Time-Series, Forecasting, LSTMs.
 :::
 :::
 
-### - Survival Analysis:
-
-My professional entry point to data science in the area of risk assessment of power systems.
-
-#### [Electrical substation reliability assessment using the Monte Carlo chronological method: A Real Case Evaluation](https://de.mathworks.com/matlabcentral/fileexchange/10679-one-single-component-reliability-monte-carlo-chronological-method){target="_blank"}
+## Substation reliability assessment using the Monte Carlo method: A Real Case Evaluation
 
 ::: columns
 ::: {.column width="55%"}
-With 4.5/5 ⭐ review score, the almost 20 years-old ***Matlab*** code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the ***Monte Carlo Chronological Technique*** to simulate an artificial history of failures of power substations, this to estimate load point **stochastic KPIs** like **Estimated Energy Not Supplied (EENS)**, **Estimated Duration of Load Curtailment (EDLC)**. In addition, I used analytical techniques like ***Markov Chains*** modelling in order to validate simulation results.
+With 4.5/5 ⭐ review score, the almost 20 years-old ***Matlab*** code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the ***Monte Carlo Chronological Technique*** to simulate an artificial history of failures of the components of power substations, estimating load point **stochastic KPIs** like **Estimated Energy Not Supplied (EENS)** and **Estimated Duration of Load Curtailment (EDLC)**.
+
+**Keywords**: Survival Analysis, Risk, Stochastic Processes, Markov Chains, Monte Carlo Simulation, Business Intelligence.
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-![](imgs/jthom_mc.png)
+[![](imgs/jthom_mc.png)](https://de.mathworks.com/matlabcentral/fileexchange/10679-one-single-component-reliability-monte-carlo-chronological-method)
 :::
 :::
 
-## Unsupervised Learning
-
-Very often we have to do some previous ML for the sake of ML. Yes, that means performing some auto-labelling or at least identifying some possible ones, i.e., discovering patterns in the feature space.
-
-### - Machine Learning:
-
-#### [Hierarchical clustering of daily load profiles](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature){target="_blank"}
+## Hierarchical clustering of daily load profiles
 
 ::: columns
 ::: {.column width="40%"}
-![](imgs/jthom_hclustprofiles.png)
+[![](imgs/jthom_hclustprofiles.png)](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature)
 :::
 
 ::: {.column width="5%"}
@@ -111,54 +109,62 @@ Very often we have to do some previous ML for the sake of ML. Yes, that means pe
 
 ::: {.column width="55%"}
 In the modern world of sector-coupled utilities, ***time-series*** always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a proceeding with more than fourty patents, I developed this ***hierarchical clustering*** algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.
+
+**Keywords**: Machine Learning, Unsupervised Learning, Classification, Time-Series, Patterns.
 :::
 :::
 
-# Data Visualisation and Dashboarding
+# Data Visualisation
 
-## [IoT-Dashboards for energy management with Tableau](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
+## IoT-Dashboards for energy management with Tableau
 
 ::: columns
 ::: {.column width="55%"}
 I designed these IoT-Dashboards with monitoring and BI purposes using ***Tableau Desktop***. I also developed the whole E2E pipeline using technologies like ***InfluxDB***, ***SQLite***, ***Python*** and ***Tableau Bridge*** to keep the dashboards up to date on a half-hour basis. This was the final part of the project [dynOpt-En](https://www.iosb.fraunhofer.de/de/projekte-produkte/dynopt-en.html){target="_blank"}.
+
+**Keywords**: Data Engineering, Tableau, Dashboards, Monitoring, IoT, Energy Management.
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-![](imgs/jthom_tableau_dynopt.png)
+[![](imgs/jthom_tableau_dynopt.png)](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring)
 :::
 :::
 
-## [E2E automated energy reports for smart buildings](https://youtu.be/lk5LCfiX0Uk?t=2522){target="_blank"}
+## E2E automated energy reports for smart buildings
 
 ::: columns
 ::: {.column width="40%"}
-![](imgs/jthom_effmon.png)
+[![](imgs/jthom_effmon.png)](https://youtu.be/lk5LCfiX0Uk?t=2522)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="55%"}
-In 2019 for the [EffMon](https://www.iosb.fraunhofer.de/en/projects-and-products/effmon-efficient-monitoring.html) project, I developed a set of functions to communicate with Fraunhofer's ***FROST-Server***, an Open Source implementation of the ***OGC SensorThings API***. Using ***Markdown*** publishing technologies, as well as libraries like ***ggplot***, I automatised the entire **KPI** calculations and visualisations for reporting and **management of the entire energy demand** of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!
+In 2019 for the [EffMon](https://www.iosb.fraunhofer.de/en/projects-and-products/effmon-efficient-monitoring.html) project, I developed a set of functions to communicate with Fraunhofer's ***FROST-Server***, an Open Source implementation of the ***OGC SensorThings API***. Using ***Markdown*** publishing technologies, as well as libraries like ***ggplot***, I automatised the entire **KPI** calculations and visualisations for reporting and **management of the entire energy demand** of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.
+
+**Keywords**: Advanced Analytics, Reports Automation, Monitoring, IoT, Energy Management.
 :::
 :::
 
-# Data Extraction and Scrapping
+# Others
 
-## [Global Forecast System decoder](https://github.com/jorgethomasm/GFS-Decoder){target="_blank"}
+## Global Forecast System decoder
 
 ::: columns
 ::: {.column width="55%"}
 I wrote this application in ***.NET C#***. It scraps the ftp-site of NCEP's Global Forecast System, [GFS](https://www.nco.ncep.noaa.gov/pmb/products/gfs/) - Numeric Weather Prediction model (NWP). It also decodes (degribs) and disaggregates the weather forecast variables of any configured pair of geographical coordinates.
+
+**Keywords**: Software Development, Weather Data, Photovoltaic Power Forecasting.
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-![](imgs/jthom_gfs.png)
+[![](imgs/jthom_gfs.png)](https://github.com/jorgethomasm/GFS-Decoder)
 :::
 :::
