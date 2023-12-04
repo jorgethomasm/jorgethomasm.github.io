@@ -1,0 +1,39 @@
+
+IMAGE RIGHT
+
+:::: columns
+::: {.column width="55%"}
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](imgs/jthom_ml_impact.png)
+:::
+::::
+
+
+IMAGE LEFT
+
+:::: columns
+::: {.column width="40%"}
+![](imgs/jthom_ml_impact.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+:::
+::::
+
+
+ My Notes:
+
+It is known that the most common type of dataset found in the industry is the **tabular** one. 
+In this regard ML's non-parametric methods with ensembling via bagging or boosting are king. 
+However, for big datasets with high signal-to-noise ratio (SNR) like image recognition and 
+language translation, DL methods are unbeatable.

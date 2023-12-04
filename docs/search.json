@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My data journey started back in the mids 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured, given their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP’s data, world surveys and standards. A continuous push towards a data culture from the management above was key, and it still is!"
+    "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
   },
   {
     "objectID": "blog.html",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "🚧🚧🚧\nWelcome to my portfolio of projects.\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. The technologies I’ve used are highlighted. Click on each project title for a detailed look!"
+    "text": "Welcome to my Data Science portfolio. Here you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. The technologies I’ve used are highlighted. Click on each project title for details!"
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -242,14 +242,14 @@
     "href": "projects.html#supervised-learning",
     "title": "Projects",
     "section": "Supervised Learning",
-    "text": "Supervised Learning\n\n- Machine Learning:\n\nAdvanced regression techniques with visual analytics\nIn this classic Kaggle project you can follow my workflow where I’ll give you some tips along the way, developing pipelines on the ETL phase of the DS cycle, as well as a tidy presentation on the EDA supported on visual analytics. Among the technologies I used are R with the state-of-the-art Tidyverse and Tidymodels packages. Quarto is the publishing system.\n\n\nForecasting heat demand in buildings\nWith today’s advances on remote sensing, optimal energy management can be performed in the cloud. This is the maxima of project dynOpt-En, where I developed the two-days-ahead forecasting module for the MPC optimiser. Training a Generalised Additive Model (GAM) and using the Dark Sky API, free at that time, I manage to retrieve the weather variables from Numeric Weather Prediction models (NWP) needed as features.\n\n\n\n- Deep Learning:\nIt is known that the most common type of dataset found in the industry is the tabular one. In this regard ML’s non-parametric methods with ensembling via bagging or boosting are king. However, for big datasets with high signal-to-noise ratio (SNR) like image recognition and language translation, DL methods are unbeatable.\n\nWater demand prediction with LSTMs for pumps control\nIn this project my main task was the hyperparameter optimisation. Using Python’s scikit-learn and TensorFlow wrapped in the Keras API, I was able to determine the optimal batch size and the number of units for the LSTM network.\n\n\n\n- Survival Analysis:\nMy professional entry point to data science, specifically in the area of reliability and risk assessment of power systems.\n\nElectrical substation reliability assessment using the Monte Carlo chronological method: A Real Case Evaluation\nWith 4.5 stars reviews, the almost 20 years-old Matlab code, which is a simplified version of the full project, has helped more than 3000 practitioners and students."
+    "text": "Supervised Learning\n\n- Machine Learning:\n\nAdvanced regression techniques with visual analytics\n\n\n\n\n\n\nFollow my workflow to a top 10% solution for this classic Kaggle open competition. I’ll give you some tips along the way, developing pipelines on the ETL phase, as well as a tidy presentation on the EDA supported on the best visual analytics. I used R with the state-of-the-art Tidyverse and Tidymodels packages. Quarto is the publishing system.\n\n\n\n\nForecasting heat demand in buildings\n\n\nWith today’s advances on remote sensing, optimal energy management can be performed in the cloud. This is the maxima of project dynOpt-En, where I developed the two-days-ahead forecasting module for the MPC optimiser. Training a Generalised Additive Model (GAM) and using the Dark Sky API, free at that time, I manage to retrieve the weather variables from Numeric Weather Prediction models (NWP) needed as features.\n\n\n\n\n\n\n\n\n\n- Deep Learning:\n\nWater demand prediction with LSTMs for pumps control\n\n\n\n\n\n\nIn this project my main task was the hyper-parameters optimisation. Using Python’s scikit-learn and TensorFlow wrapped in the Keras API, I was able to determine the optimal batch size and the number of units for the LSTM network.\n\n\n\n\n\n- Survival Analysis:\nMy professional entry point to data science in the area of risk assessment of power systems.\n\nElectrical substation reliability assessment using the Monte Carlo chronological method: A Real Case Evaluation\n\n\nWith 4.5/5 ⭐ review score, the almost 20 years-old Matlab code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the Monte Carlo Chronological Technique to simulate an artificial history of failures of power substations, this to estimate load point stochastic KPIs like Estimated Energy Not Supplied (EENS), Estimated Duration of Load Curtailment (EDLC). In addition, I used analytical techniques like Markov Chains modelling in order to validate simulation results."
   },
   {
     "objectID": "projects.html#unsupervised-learning",
     "href": "projects.html#unsupervised-learning",
     "title": "Projects",
     "section": "Unsupervised Learning",
-    "text": "Unsupervised Learning\nVery often we have to do some previous ML for the sake of ML. Yes, that means performing some auto-labelling or at least identifying some possible ones, i.e., discovering patterns in the feature space.\n\n- Machine Learning:\n\nHierarchical clustering of daily load profiles\nIn the modern world of sector-coupled utilities, i.e., gas, water, heat & power distribution, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a famous proceeding with more than fourty citations in patents, I developed this heriarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.\n\n\n\n- Deep Learning:"
+    "text": "Unsupervised Learning\nVery often we have to do some previous ML for the sake of ML. Yes, that means performing some auto-labelling or at least identifying some possible ones, i.e., discovering patterns in the feature space.\n\n- Machine Learning:\n\nHierarchical clustering of daily load profiles\n\n\n\n\n\n\nIn the modern world of sector-coupled utilities, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a proceeding with more than fourty patents, I developed this hierarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles."
   },
   {
     "objectID": "projects.html#supervised-learnin",
@@ -270,7 +270,7 @@
     "href": "projects.html#dashboards-and-reports-automation",
     "title": "Projects",
     "section": "Dashboards and Reports Automation",
-    "text": "Dashboards and Reports Automation\n\nIoT-Dashboards for energy management with Tableau\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technolgies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\n\n\nE2E automated energy reports for smart buildings\nIn 2019 for the EffMon project, I developed a set of functions to comunicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
+    "text": "Dashboards and Reports Automation\n\nIoT-Dashboards for energy management with Tableau\n\n\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technologies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En.\n\n\n\n\n\n\n\n\nE2E automated energy reports for smart buildings\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
   },
   {
     "objectID": "about.html#scientific-publications",
@@ -298,7 +298,7 @@
     "href": "about.html#publications",
     "title": "About",
     "section": "Publications",
-    "text": "Publications\nTo date I’ve authored and co-authored several publications2 realated to data analysis in different domains like Power & Energy, IoT and utilities."
+    "text": "Publications\nTo date I’ve authored and co-authored several publications2 related to data analysis in different domains like Power & Energy Systems, IoT and utilities."
   },
   {
     "objectID": "about.html#data-was-scarce-and-expensive",
@@ -312,13 +312,41 @@
     "href": "about.html#data-used-to-be-scarce-and-expensive",
     "title": "About",
     "section": "",
-    "text": "My data journey started back in the mids 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured, given their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP’s data, world surveys and standards. A continuous push towards a data culture from the management above was key, and it still is!"
+    "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
   },
   {
     "objectID": "projects.html#data-extraction-and-scrapping",
     "href": "projects.html#data-extraction-and-scrapping",
     "title": "Projects",
     "section": "Data Extraction and Scrapping",
-    "text": "Data Extraction and Scrapping\n\nGlobal Forecast System decoder\nI wrote this application in .NET C#. It scraps the ftp-site of NCEP’s Global Forecast System, GFS - Numeric Weather Prediction model (NWP). It also decodes (degribs) and disaggregates the weather forecast variables of any configured pair of geo-coordinates."
+    "text": "Data Extraction and Scrapping\n\nGlobal Forecast System decoder\n\n\nI wrote this application in .NET C#. It scraps the ftp-site of NCEP’s Global Forecast System, GFS - Numeric Weather Prediction model (NWP). It also decodes (degribs) and disaggregates the weather forecast variables of any configured pair of geo-coordinates."
+  },
+  {
+    "objectID": "projects.html#delivering-an-mlai-strategy",
+    "href": "projects.html#delivering-an-mlai-strategy",
+    "title": "Projects",
+    "section": "Delivering an ML/AI strategy",
+    "text": "Delivering an ML/AI strategy\n\n\n“We have a data lake! So what can we do?” I developed this demo project with the objective of thoroughly learning a methodology to assess impactful AI implementations in real business projects (Use Cases). I used tools like Storyboards, Prioritisation Grids, 5 V’s Framework and Potter’s Boxes, all this within a ship & iterate philosophy in order to gather quick feedback."
+  },
+  {
+    "objectID": "projects.html#iot-dashboards-for-energy-management-with-tableau",
+    "href": "projects.html#iot-dashboards-for-energy-management-with-tableau",
+    "title": "Projects",
+    "section": "IoT-Dashboards for energy management with Tableau",
+    "text": "IoT-Dashboards for energy management with Tableau\n\n\nI designed these IoT-Dashboards with monitoring and BI purposes using Tableau Desktop. I also developed the whole E2E pipeline using technologies like InfluxDB, SQLite, Python and Tableau Bridge to keep the dashboards up to date on a half-hour basis. This was the final part of the project dynOpt-En."
+  },
+  {
+    "objectID": "projects.html#e2e-automated-energy-reports-for-smart-buildings",
+    "href": "projects.html#e2e-automated-energy-reports-for-smart-buildings",
+    "title": "Projects",
+    "section": "E2E automated energy reports for smart buildings",
+    "text": "E2E automated energy reports for smart buildings\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click above on the title to see a video of the results!"
+  },
+  {
+    "objectID": "projects.html#global-forecast-system-decoder",
+    "href": "projects.html#global-forecast-system-decoder",
+    "title": "Projects",
+    "section": "Global Forecast System decoder",
+    "text": "Global Forecast System decoder\n\n\nI wrote this application in .NET C#. It scraps the ftp-site of NCEP’s Global Forecast System, GFS - Numeric Weather Prediction model (NWP). It also decodes (degribs) and disaggregates the weather forecast variables of any configured pair of geographical coordinates."
   }
 ]

@@ -1,7 +1,7 @@
 ---
 title: "Jorge Thomas"
 subtitle: Lead Data Scientist - Electrical Engineer, MSc.
-image: ./imgs/bom_dia.jpg
+image: ./imgs/bom_dia_800_600.jpg
 format:
   html:
     toc: false
