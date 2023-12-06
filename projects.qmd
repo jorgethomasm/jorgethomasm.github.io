@@ -1,5 +1,8 @@
 ---
 title: "Projects"
+format:
+  html:
+    toc-depth: 1
 ---
 
 Welcome to my portfolio!
@@ -11,15 +14,16 @@ Here you'll find a mixture of professional, prototype and fun projects like [Kag
 - Data Strategy
 - Machine Learning & AI
 - Data Visualisation
-- Others
+- Other Devs
 
+<p class="text-primary">**Click** on each **thumbnail** or **title** for details.</p>
 </small></p>
 
-<p class="text-primary">**Click** on each **thumbnail** for details.</p>
+
 
 # Data Strategy
 
-## Delivering an ML/AI strategy
+## [Delivering an ML/AI strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true){target="_blank"}
 
 ::: columns
 
@@ -41,7 +45,7 @@ Here you'll find a mixture of professional, prototype and fun projects like [Kag
 
 # Machine Learning & AI
 
-## Advanced regression techniques with visual analytics
+## [Advanced regression techniques with visual analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
 
 ::: columns
 ::: {.column width="40%"}
@@ -59,7 +63,7 @@ Follow **my workflow** for a **top 10%** solution for this open Kaggle competiti
 :::
 :::
 
-## Forecasting heat demand in buildings
+## [Forecasting heat demand in buildings](https://ieeexplore.ieee.org/document/9144899){target="_blank"}
 
 ::: columns
 ::: {.column width="55%"}
@@ -77,7 +81,7 @@ With today's advances on remote sensing, optimal energy management can be perfor
 :::
 :::
 
-## Water demand prediction with LSTMs for pumps control
+## [Water demand prediction with LSTMs for pumps control](https://www.researchgate.net/publication/349694237_Application_of_LSTM_Networks_for_Water_Demand_Prediction_in_Optimal_Pump_Control){target="_blank"}
 
 ::: columns
 ::: {.column width="40%"}
@@ -95,7 +99,7 @@ In this project my main task was the hyper-parameters optimisation. Using ***Pyt
 :::
 :::
 
-## Substation reliability assessment using Monte Carlo methods: Real Case Evaluation
+## [Substation reliability assessment using Monte Carlo methods: Real Case Evaluation](https://de.mathworks.com/matlabcentral/fileexchange/10679-one-single-component-reliability-monte-carlo-chronological-method){target="_blank"}
 
 ::: columns
 ::: {.column width="55%"}
@@ -113,7 +117,7 @@ With 4.5/5 ⭐ review score, the almost 20 years-old ***Matlab*** code, which is
 :::
 :::
 
-## Hierarchical clustering of daily load profiles
+## [Hierarchical clustering of daily load profiles](https://github.com/jorgethomasm/HOME-Timeseries_Clustering_of_Daily_Profiles/wiki#which-daily-heat-demand-pattern-shape-belongs-to-which-mean-daily-ambient-temperature){target="_blank"}
 
 ::: columns
 ::: {.column width="40%"}
@@ -133,7 +137,7 @@ In the modern world of sector-coupled utilities, ***time-series*** always have a
 
 # Data Visualisation
 
-## IoT-Dashboards for energy management
+## [IoT-Dashboards for energy management](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
 
 ::: columns
 ::: {.column width="55%"}
@@ -151,7 +155,7 @@ I designed these IoT-Dashboards with monitoring and BI purposes using ***Tableau
 :::
 :::
 
-## E2E monthly energy reports for smart buildings
+## [E2E monthly energy reports for smart buildings](https://youtu.be/lk5LCfiX0Uk?t=2522){target="_blank"}
 
 ::: columns
 ::: {.column width="40%"}
@@ -169,9 +173,9 @@ In 2019 for the [EffMon](https://www.iosb.fraunhofer.de/en/projects-and-products
 :::
 :::
 
-# Others
+# Other Devs
 
-## Global Forecast System decoder
+## [Global Forecast System decoder](https://github.com/jorgethomasm/GFS-Decoder){target="_blank"}
 
 ::: columns
 ::: {.column width="55%"}

@@ -18,7 +18,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "🚧🚧🚧\nHere you’ll find the links to field-related content written by me."
+    "text": "🚧🚧🚧 (wip)\nHere you’ll find the links to field-related content written by me."
   },
   {
     "objectID": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my portfolio!\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. Technologies I’ve used are highlighted. There are four main categories:\nClick on each thumbnail for details."
+    "text": "Welcome to my portfolio!\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. Technologies I’ve used are highlighted. There are four main categories:"
   },
   {
     "objectID": "projects.html#machine-learning",
