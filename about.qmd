@@ -4,7 +4,7 @@ reference-section-title: "Journal Articles & Conference Proceedings"
 nocite: '@*'
 ---
 
-## Data used to be scarce and expensive
+## My Data Odyssey: A Stochastic Voyage
 
 My data journey started back in the mid 2000s, working as a *Reliability Engineer* of Power Systems for the operator of the world's fourth biggest hydroelectric power plant [Guri](https://www.power-technology.com/features/feature-the-10-biggest-hydroelectric-power-plants-in-the-world/){target="_blank"}. The objective was ambitious:
 
@@ -60,6 +60,6 @@ Dipl.-Ing. Electrical Engineering, VE (2000-2006)
 
 ## Publications
 
-To date I've authored and co-authored several publications[^2] related to *data analysis* in different domains like *Power & Energy Systems*, *IoT* and *utilities*.
+To date I've authored and co-authored several publications[^2] related to *advanced analyitcs* in different domains like *Power & Energy Systems*, *IoT* and *utilities*.
 
 [^2]: Check my [ORCiD](https://orcid.org/0000-0001-8844-8421){target="_blank"}

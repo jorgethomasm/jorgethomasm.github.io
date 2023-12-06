@@ -7,16 +7,19 @@ website:
   favicon: ./imgs/favicon-32x32.png
   page-footer:     
     left: | 
-      © 2023 J. Thomas | Made with [Quarto](https://quarto.org)
+      © 2023 J. Thomas
     background: "#78C2AD" 
 
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
-      - blog.qmd
-      - about.qmd  
+      - href: projects.qmd
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+      - href: about.qmd
+        text: About
  
 format:
   html:

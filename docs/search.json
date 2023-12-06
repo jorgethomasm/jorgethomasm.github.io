@@ -298,7 +298,7 @@
     "href": "about.html#publications",
     "title": "About",
     "section": "Publications",
-    "text": "Publications\nTo date I’ve authored and co-authored several publications2 related to data analysis in different domains like Power & Energy Systems, IoT and utilities."
+    "text": "Publications\nTo date I’ve authored and co-authored several publications2 related to advanced analyitcs in different domains like Power & Energy Systems, IoT and utilities."
   },
   {
     "objectID": "about.html#data-was-scarce-and-expensive",
@@ -418,5 +418,26 @@
     "title": "Projects",
     "section": "Substation reliability assessment using Monte Carlo methods: Real Case Evaluation",
     "text": "Substation reliability assessment using Monte Carlo methods: Real Case Evaluation\n\n\nWith 4.5/5 ⭐ review score, the almost 20 years-old Matlab code, which is a simplified version of the full project, has helped more than 3000 practitioners and students. I used the Monte Carlo Chronological Technique to simulate an artificial history of failures of the components of power substations, estimating load point stochastic KPIs like Estimated Energy Not Supplied (EENS) and Estimated Duration of Load Curtailment (EDLC).\n\nKeywords: Survival Analysis, Risk, Stochastic Processes, Markov Chains, Monte Carlo Simulation, Business Intelligence."
+  },
+  {
+    "objectID": "about.html#the-data-odyssey-a-stochastic-voyage",
+    "href": "about.html#the-data-odyssey-a-stochastic-voyage",
+    "title": "About",
+    "section": "",
+    "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
+  },
+  {
+    "objectID": "about.html#the-data-odyssey",
+    "href": "about.html#the-data-odyssey",
+    "title": "About",
+    "section": "",
+    "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
+  },
+  {
+    "objectID": "about.html#my-data-odyssey-a-stochastic-voyage",
+    "href": "about.html#my-data-odyssey-a-stochastic-voyage",
+    "title": "About",
+    "section": "",
+    "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
   }
 ]
