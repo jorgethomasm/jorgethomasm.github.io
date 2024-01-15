@@ -10,7 +10,7 @@ My data journey started back in the mid 2000s, working as a *Reliability Enginee
 
 -   *Dynamic monitoring of the risk of blackouts with probabilistic KPIs.*
 
-At that time the position Data Scientist didn't exist, but some books in the realm of *Data Mining* and *Emerging Computing Methods* trying to organise and formalise the field. However, the area of *Survival Analysis*, specifically *Reliability and Risk* were pretty matured due to their importance for the industry.
+At that time the position Data Scientist didn't exist, but some books in the realm of *Data Mining* and *Emerging Computing Methods* trying to organise and formalise the field. However, the area of *Survival Analysis*, specifically *Reliability and Risk* were pretty matured due to their importance in the industry.
 
 Going forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn't easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a ***data culture*** from top-level management was key, and it still is!
 

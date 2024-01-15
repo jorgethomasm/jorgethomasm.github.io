@@ -7,7 +7,7 @@ format:
 
 Welcome to my portfolio!
 
-Here you'll find a mixture of professional, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm){target="_blank"} competitions. Technologies I've used are ***highlighted***. There are four main categories: 
+Here you'll find a mixture of professional **End-to-End (E2E) Software-as-a-Service (SaaS) solutions**, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm){target="_blank"} competitions. The technologies I've used are ***highlighted***. There are four main categories: 
 
 <p><small>
 
@@ -168,7 +168,7 @@ I designed these IoT-Dashboards with monitoring and BI purposes using ***Tableau
 ::: {.column width="55%"}
 In 2019 for the [EffMon](https://www.iosb.fraunhofer.de/en/projects-and-products/effmon-efficient-monitoring.html) project, I developed a set of functions to communicate with Fraunhofer's ***FROST-Server***, an Open Source implementation of the ***OGC SensorThings API***. Using ***Markdown*** publishing technologies, as well as libraries like ***ggplot***, I automatised the entire **KPI** calculations and visualisations for reporting and **management of the entire energy demand** of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.
 
-<p><small>**Keywords**: Advanced Analytics, Reports Automation, Monitoring, IoT, Energy Management.</small></p>
+<p><small>**Keywords**: Asset Management, Data Analysis, Reports Automation, Monitoring.</small></p>
 
 :::
 :::

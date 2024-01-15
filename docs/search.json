@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
+    "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance in the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
   },
   {
     "objectID": "blog.html",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my portfolio!\nHere you’ll find a mixture of professional, prototype and fun projects like Kaggle competitions. Technologies I’ve used are highlighted. There are four main categories:"
+    "text": "Welcome to my portfolio!\nHere you’ll find a mixture of professional End-to-End (E2E) Software-as-a-Service (SaaS) solutions, prototype and fun projects like Kaggle competitions. The technologies I’ve used are highlighted. There are four main categories:"
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -410,7 +410,7 @@
     "href": "projects.html#e2e-monthly-energy-reports-for-smart-buildings",
     "title": "Projects",
     "section": "E2E monthly energy reports for smart buildings",
-    "text": "E2E monthly energy reports for smart buildings\n\n\n\n\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.\n\nKeywords: Advanced Analytics, Reports Automation, Monitoring, IoT, Energy Management."
+    "text": "E2E monthly energy reports for smart buildings\n\n\n\n\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.\n\nKeywords: Asset Management, Data Analysis, Reports Automation, Monitoring."
   },
   {
     "objectID": "projects.html#substation-reliability-assessment-using-monte-carlo-methods-real-case-evaluation",
@@ -438,6 +438,6 @@
     "href": "about.html#my-data-odyssey-a-stochastic-voyage",
     "title": "About",
     "section": "",
-    "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance for the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
+    "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance in the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
   }
 ]
