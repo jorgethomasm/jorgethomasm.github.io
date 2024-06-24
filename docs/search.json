@@ -439,5 +439,12 @@
     "title": "About",
     "section": "",
     "text": "My data journey started back in the mid 2000s, working as a Reliability Engineer of Power Systems for the operator of the world’s fourth biggest hydroelectric power plant Guri. The objective was ambitious:\n\nDynamic monitoring of the risk of blackouts with probabilistic KPIs.\n\nAt that time the position Data Scientist didn’t exist, but some books in the realm of Data Mining and Emerging Computing Methods trying to organise and formalise the field. However, the area of Survival Analysis, specifically Reliability and Risk were pretty matured due to their importance in the industry.\nGoing forward with a stochastic thinking in an organisation with a lack of statistical culture and less amounts of data wasn’t easy, relying only on a mixture of internal ERP data, world surveys and standards. A continuous push towards a data culture from top-level management was key, and it still is!"
+  },
+  {
+    "objectID": "projects.html#wind-energy-yield-forecast",
+    "href": "projects.html#wind-energy-yield-forecast",
+    "title": "Projects",
+    "section": "Wind Energy Yield Forecast",
+    "text": "Wind Energy Yield Forecast\n\n\nThis project showcases a short demo of a larger implementation for a short-term forecast with the potential energy yield of a Goldwind turbine model GW 165-6.0 6300. As an example, the wind turbine is located on the German coast of the North Sea. Basically, the necessary weather variables are obtained from the NWP-DWD-ICON model and these are used as inputs for the wind power equations. Of course, wind turbine specifications or attributes are taken into account. The Forecast Horizon (FH) is seven (07) days ahead.\n\nKeywords: Short-Term Forecasting, Numeric Weather Prediction (NWP), API Client, DWD-ICON, Time-Series, Energy."
   }
 ]

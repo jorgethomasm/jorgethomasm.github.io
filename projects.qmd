@@ -63,6 +63,24 @@ Follow **my workflow** for a **top 10%** solution for this open Kaggle competiti
 :::
 :::
 
+## [Wind Energy Yield Forecast](https://jorgethomasm.github.io/Wind-Energy-Yield-Forecast/Wind-Energy-Yield-Forecast.html){target="_blank"}
+
+::: columns
+::: {.column width="55%"}
+This project showcases a short demo of a larger implementation for a short-term forecast with the potential energy yield of a Goldwind turbine model GW 165-6.0 6300. As an example, the wind turbine is located on the German coast of the North Sea. Basically, the necessary weather variables are obtained from the NWP-DWD-ICON model and these are used as inputs for the wind power equations. Of course, wind turbine specifications or attributes are taken into account. The Forecast Horizon (FH) is seven (07) days ahead.
+
+<p><small>**Keywords**: Short-Term Forecasting, Numeric Weather Prediction (NWP), API Client, DWD-ICON, Time-Series, Energy.</small></p>
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](imgs/jthom_EnergyYield_Goldwind.jpg)](https://jorgethomasm.github.io/Wind-Energy-Yield-Forecast/Wind-Energy-Yield-Forecast.html){target="_blank"}
+:::
+:::
+
 ## [Forecasting heat demand in buildings](https://ieeexplore.ieee.org/document/9144899){target="_blank"}
 
 ::: columns
