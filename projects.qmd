@@ -11,37 +11,16 @@ Here you'll find a mixture of professional **End-to-End (E2E) Software-as-a-Serv
 
 <p><small>
 
-- Data Strategy
 - Machine Learning & AI
-- Data Visualisation
+- Continuous Integration & Deployment (CI/CD)
+- Data Visualisation & Reporting
+- Data Strategy
 - Other Devs
 
 <p class="text-primary">**Click** on each **thumbnail** or **title** for details.</p>
 </small></p>
 
 
-
-# Data Strategy
-
-## [Delivering an ML/AI strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true){target="_blank"}
-
-::: columns
-
-::: {.column width="55%"}
-
-"We have a data lake; what can we do?" I developed this demo project with the objective of thoroughly learning a methodology to assess impactful AI implementations in real business projects (Use Cases). I used tools like ***Storyboards***, ***Prioritisation Grids***, ***5 V's Framework*** and ***Potter's Boxes***, all this within a **ship & iterate** philosophy in order to gather quick feedback.
-
-<p><small>**Keywords**: AI for Business, AI Architecture, Data Strategy, Data Products.</small></p>
-
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="40%"}
-[![](imgs/jthom_ml_impact.png)](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true){target="_blank"}
-:::
-:::
 
 # Machine Learning & AI
 
@@ -63,23 +42,6 @@ Follow **my workflow** for a **top 10%** solution for this open Kaggle competiti
 :::
 :::
 
-## [Wind Energy Yield Forecast](https://jorgethomasm.github.io/Wind-Energy-Yield-Forecast/Wind-Energy-Yield-Forecast.html){target="_blank"}
-
-::: columns
-::: {.column width="55%"}
-This project showcases a short demo of a larger implementation for a short-term forecast with the potential energy yield of a Goldwind turbine model GW 165-6.0 6300. As an example, the wind turbine is located on the German coast of the North Sea. Basically, the necessary weather variables are obtained from the NWP-DWD-ICON model and these are used as inputs for the wind power equations. Of course, wind turbine specifications or attributes are taken into account. The Forecast Horizon (FH) is seven (07) days ahead.
-
-<p><small>**Keywords**: Short-Term Forecasting, Numeric Weather Prediction (NWP), API Client, DWD-ICON, Time-Series, Energy.</small></p>
-
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="40%"}
-[![](imgs/jthom_EnergyYield_Goldwind.jpg)](https://jorgethomasm.github.io/Wind-Energy-Yield-Forecast/Wind-Energy-Yield-Forecast.html){target="_blank"}
-:::
-:::
 
 ## [Forecasting heat demand in buildings](https://ieeexplore.ieee.org/document/9144899){target="_blank"}
 
@@ -153,7 +115,31 @@ In the modern world of sector-coupled utilities, ***time-series*** always have a
 :::
 :::
 
-# Data Visualisation
+
+
+# CI/CD 
+
+## [Wind Energy Yield Forecast](https://jorgethomasm.github.io/Wind-Energy-Yield-Forecast/Wind-Energy-Yield-Forecast.html){target="_blank"}
+
+::: columns
+::: {.column width="55%"}
+This project showcases the continuous delivery with free tools (***Docker*** & ***Github Actions***) of a short-term power forecast with the potential energy yield of a Goldwind turbine. I programmed backend (Python) and frontend (R, Quarto). As a demo, the wind turbine is located on the German coast of the North Sea. Basically, weather variables are obtained from the the DWD-ICON model and these are used as inputs to calculate the theoretical wind power generated using all wind turbine attributes. The Forecast Horizon (FH) is seven days ahead. Hourly predictions are automatically updated daily and the dashboard is refreshed.  
+
+<p><small>**Keywords**: Docker, GitHub Actions, CI/CD, Forecasting, Numeric Weather Prediction, Time-Series, Energy.</small></p>
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](imgs/jthom_EnergyYield_Goldwind.jpg)](https://jorgethomasm.github.io/Wind-Energy-Yield-Forecast/Wind-Energy-Yield-Forecast.html){target="_blank"}
+:::
+:::
+
+
+
+# Visualisation & Reporting
 
 ## [IoT-Dashboards for energy management](https://public.tableau.com/app/profile/iosb.mrd/viz/DynOpt-En-DemoLoerrach/Monitoring){target="_blank"}
 
@@ -190,6 +176,32 @@ In 2019 for the [EffMon](https://www.iosb.fraunhofer.de/en/projects-and-products
 
 :::
 :::
+
+
+
+# Data Strategy
+
+## [Delivering an ML/AI strategy](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true){target="_blank"}
+
+::: columns
+
+::: {.column width="55%"}
+
+"We have a data lake; what can we do?" I developed this demo project with the objective of thoroughly learning a methodology to assess impactful AI implementations in real business projects (Use Cases). I used tools like ***Storyboards***, ***Prioritisation Grids***, ***5 V's Framework*** and ***Potter's Boxes***, all this within a **ship & iterate** philosophy in order to gather quick feedback.
+
+<p><small>**Keywords**: AI for Business, AI Architecture, Data Strategy, Data Products.</small></p>
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+[![](imgs/jthom_ml_impact.png)](https://docs.google.com/presentation/d/1NpMqORh_Y_tXOoqrKukTng7ewtSOAyFB/edit?usp=sharing&ouid=102039995413823268978&rtpof=true&sd=true){target="_blank"}
+:::
+:::
+
+
 
 # Other Devs
 
