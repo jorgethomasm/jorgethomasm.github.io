@@ -1,6 +1,6 @@
 ---
 title: "Jorge Thomas"
-subtitle: Lead Data Scientist - Electrical Engineer, MSc.
+subtitle: Project Manager, Data Scientist & Electrical Engineer, MSc.
 image: ./imgs/bom_dia_800_600.jpg
 format:
   html:
@@ -23,7 +23,7 @@ about:
 
 # Hello there
 
-I'm Jorge and I like espresso brewed with light roast beans. I subscribe to Johnny Cash's definition of paradise:
+I'm Jorge, and I like espresso brewed with light roast beans. I subscribe to Johnny Cash's definition of paradise:
 
 <figure class="text-end">
   <blockquote class="blockquote">
@@ -31,14 +31,14 @@ I'm Jorge and I like espresso brewed with light roast beans. I subscribe to John
   </blockquote> 
 </figure>
 
-Professionally I am Electrical Engineer fond of sustainable energy sources; that means uncertainty, risk and  probabilities, you know weather. Somehow, I've always managed to end up doing what I love the most: the development of data-driven models either for providing business intelligence or supporting control systems.
+Professionally, I am an Electrical Engineer passionate about sustainable energy sources. That means uncertainty, risk and probabilities—think weather patterns. Somehow, I've always managed to end up doing what I love the most: the development of data-driven models, whether for providing business intelligence or supporting control systems.
 
-I don't bike but I live in Karlsruhe. If you want to know how I got into what today is Data Science click on the *About* tab. If you want to talk about data science, music or coffee instead, just drop me an [email](mailto:jorgethomasm@ieee.org).
+I don't bike, but I live in Karlsruhe. If you want to know how I got into what today is Data Science, click on the *About* tab. If you want to talk about data science, energy systems or coffee instead, just drop me an [email](mailto:jorgethomasm@ieee.org).
 
 Have a nice day or evening.
 
 <figure class="text-end">
   <figcaption class="blockquote-footer">
-    <cite title="Source Title">*J. Thomas*</cite>
+    <cite title="Source Title">*Jorge*</cite>
   </figcaption>
 </figure>

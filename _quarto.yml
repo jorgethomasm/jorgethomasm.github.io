@@ -7,7 +7,7 @@ website:
   favicon: ./imgs/favicon-32x32.png
   page-footer:     
     left: | 
-      © 2024 J. Thomas
+      © 2025 J. Thomas
     background: "#78C2AD" 
 
   navbar:

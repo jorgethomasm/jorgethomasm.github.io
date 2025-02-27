@@ -16,19 +16,23 @@ Going forward with a stochastic thinking in an organisation with a lack of stati
 
 ## Education
 
+#### Google
+
+[Professional Certificate in Project Management, 2025](https://www.coursera.org/account/accomplishments/specialization/certificate/4DMGH7CBK36A "go to certificate ")
+
 #### IBM
 
-[IBM AI Engineering Professional Certificate, 2022-2023](https://www.coursera.org/account/accomplishments/specialization/certificate/6FLUFKVGSAST){target="_blank"} (Joseph Santarcangelo et al.)
+[IBM AI Engineering Professional Certificate, 2022-2023](https://www.coursera.org/account/accomplishments/specialization/certificate/6FLUFKVGSAST "go to certificate"){target="_blank"} (Joseph Santarcangelo et al.)
 
 #### Udacity
 
-[AI for Business Leaders, Nanodegree, 2022](https://graduation.udacity.com/confirm/CAD3ZG3C){target="_blank"} (William Ross & Luis Serrano)
+[AI for Business Leaders, Nanodegree, 2022](https://graduation.udacity.com/confirm/CAD3ZG3C "go to certificate"){target="_blank"} (William Ross & Luis Serrano)
 
 Introduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)
 
-#### Stanford University
+#### Stanford Online
 
-[STATSX0001 Online: Statistical Learning, 2022](https://courses.edx.org/certificates/82d8c63898494b70b9da2edb345746a1){target="_blank"} (Trevor Hastie & Robert Tibshirani)
+[STATSX0001 Online: Statistical Learning, 2022](https://courses.edx.org/certificates/82d8c63898494b70b9da2edb345746a1 "go to certificate"){target="_blank"} (Trevor Hastie & Robert Tibshirani)
 
 #### Udemy
 
@@ -36,13 +40,13 @@ Introduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malo
 
 [^1]: Ongoing
 
-[Microsoft Power BI Desktop for Business Intelligence, 2022](https://www.udemy.com/certificate/UC-a6044754-ea60-4d78-9fc9-af19e82d298a/){target="_blank"} (Maven Analytics, Chris Dutton)
+[Microsoft Power BI Desktop for Business Intelligence, 2022](https://www.udemy.com/certificate/UC-a6044754-ea60-4d78-9fc9-af19e82d298a/ "go to certificate"){target="_blank"} (Maven Analytics, Chris Dutton)
 
-[Tableau A-Z: Hands-On Tableau Training for Data Science, 2019](https://www.udemy.com/certificate/UC-QBR0V6J7/){target="_blank"} (Kirill Eremenko)
+[Tableau A-Z: Hands-On Tableau Training for Data Science, 2019](https://www.udemy.com/certificate/UC-QBR0V6J7/ "go to certificate"){target="_blank"} (Kirill Eremenko)
 
 #### Kaggle
 
-[Feature Engineering, 2023](https://www.kaggle.com/learn/certification/jorgethomasm/feature-engineering){target="_blank"} (Ryan Holbrook & Alexis Cook)
+[Feature Engineering, 2023](https://www.kaggle.com/learn/certification/jorgethomasm/feature-engineering "go to certificate"){target="_blank"} (Ryan Holbrook & Alexis Cook)
 
 #### University of Nottingham
 
