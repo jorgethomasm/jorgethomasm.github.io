@@ -3,11 +3,10 @@ title: "Projects"
 format:
   html:
     toc-depth: 1
+    css: projects-width.css
 ---
 
-Welcome to my portfolio!
-
-Here you'll find a mixture of professional **End-to-End (E2E) Software-as-a-Service (SaaS) solutions**, prototype and fun projects like [Kaggle](https://www.kaggle.com/jorgethomasm){target="_blank"} competitions. The technologies I've used are ***highlighted***. There are four main categories: 
+Here you'll find a mixture of professional E2E SaaS solutions and demos. The technologies I've used are ***highlighted***. There are four main categories: 
 
 <p><small>
 
@@ -17,14 +16,33 @@ Here you'll find a mixture of professional **End-to-End (E2E) Software-as-a-Serv
 - Data Strategy
 - Other Devs
 
-<p class="text-primary">**Click** on each **thumbnail** or **title** for details.</p>
+<p class="text-primary">**Click** on each **thumbnail** or **title** for reports and details.</p>
 </small></p>
 
 
 
 # Machine Learning & AI
 
-## [Advanced regression techniques with visual analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
+## [SCADA-Based Reliability Assessment of Wind Turbines](https://019615d9-96d7-3e22-4c0b-90df77adb10a.share.connect.posit.cloud/Kelmarsh_reliability_eval.html){target="_blank"}
+
+::: columns
+::: {.column width="40%"}
+[![](imgs/MCS_FOR_convergence.gif)](https://019615d9-96d7-3e22-4c0b-90df77adb10a.share.connect.posit.cloud/Kelmarsh_reliability_eval.html){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+In this project, I evaluated the performance and reliability of Senvion MM92 turbines at the Kelmarsh Wind Farm using over 385,000 SCADA event records sourced from Power Factors. The data was transformed into a context-rich dataset to support forecasting and risk analysis for renewable energy systems. By leveraging Monte Carlo simulation and open-source tools, the project showcases how stochastic and data-driven methods uncover valuable insights in wind turbine fleet performance, paving the way for smarter, more resilient energy systems through predictive maintenance.
+
+<p><small>**Keywords**: Data Analytics, Risk Assessment, Stochastic Processes, Monte Carlo Simulation.</small></p>
+
+:::
+:::
+
+
+## [Advanced regression techniques with Visual Analytics](https://jorgethomasm.github.io/Ames-house-prices-prediction/HousePrices.html){target="_blank"}
 
 ::: columns
 ::: {.column width="40%"}
@@ -35,7 +53,7 @@ Here you'll find a mixture of professional **End-to-End (E2E) Software-as-a-Serv
 :::
 
 ::: {.column width="55%"}
-Follow **my workflow** for a **top 10%** solution for this open Kaggle competition, predicting the house prices in Ames. I'll give you tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visuals. I used ***R*** with the state-of-the-art ***Tidyverse*** and ***Tidymodels*** metapackages. ***Quarto*** is the publishing system.
+In this demo project, follow **my workflow** for a **top 10%** solution for this open Kaggle competition, predicting the house prices in Ames. I'll give you tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visuals. I used ***R*** with the state-of-the-art ***Tidyverse*** and ***Tidymodels*** metapackages. ***Quarto*** is the publishing system.
 
 <p><small>**Keywords**: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models.</small></p>
 
@@ -119,11 +137,11 @@ In the modern world of sector-coupled utilities, ***time-series*** always have a
 
 # CI/CD 
 
-## [Wind Energy Yield Forecast](https://jorgethomasm.github.io/Wind-Energy-Yield-Forecast/Wind-Energy-Yield-Forecast.html){target="_blank"}
+## [Live Wind Energy Yield Assessment (EYA)](https://jorgethomasm.github.io/Wind-Energy-Yield-Forecast/Wind-Energy-Yield-Forecast.html){target="_blank"}
 
 ::: columns
 ::: {.column width="55%"}
-This project showcases the continuous delivery with free tools (***Docker*** & ***Github Actions***) of a short-term power forecast with the potential energy yield of a Goldwind turbine. I programmed backend (Python) and frontend (R, Quarto). As a demo, the wind turbine is located on the German coast of the North Sea. Basically, weather variables are obtained from the the DWD-ICON model and these are used as inputs to calculate the theoretical wind power generated using all wind turbine attributes. The Forecast Horizon (FH) is seven days ahead. Hourly predictions are automatically updated daily and the dashboard is refreshed.  
+This project showcases the continuous delivery with free tools (***Docker*** & ***Github Actions***) of a short-term power forecast with the theoretical energy yield of a Goldwind turbine. I programmed backend (Python) and frontend (R, Quarto). As a demo, the wind turbine is located on the German coast of the North Sea. Basically, weather variables are obtained from the the DWD-ICON model and these are used as inputs to calculate the theoretical wind power generated using all wind turbine attributes. The Forecast Horizon (FH) is seven days ahead. Hourly predictions are automatically updated daily and the dashboard is refreshed.  
 
 <p><small>**Keywords**: Docker, GitHub Actions, CI/CD, Forecasting, Numeric Weather Prediction, Time-Series, Energy.</small></p>
 

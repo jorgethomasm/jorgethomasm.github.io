@@ -28,6 +28,6 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 bibliography: mypapers.bib
 csl: ieee-csl-file.csl

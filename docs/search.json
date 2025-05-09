@@ -18,7 +18,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "🚧🚧🚧 (wip)\nHere you’ll find the links to field-related content written by me."
+    "text": "Here you’ll find the links to field-related content written by me.\n\nSystem Generation Capacity Curve and the Probabilistic Nature of Blackouts\n  \n\nRead the full post on LinkedIn."
   },
   {
     "objectID": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",
@@ -109,7 +109,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my portfolio!\nHere you’ll find a mixture of professional End-to-End (E2E) Software-as-a-Service (SaaS) solutions, prototype and fun projects like Kaggle competitions. The technologies I’ve used are highlighted. There are four main categories:"
+    "text": "Here you’ll find a mixture of professional E2E SaaS solutions and demos. The technologies I’ve used are highlighted. There are four main categories:"
   },
   {
     "objectID": "projects.html#machine-learning",
@@ -200,7 +200,7 @@
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\nGoogle\nProfessional Certificate in Project Management, 2025\n\n\nIBM\nIBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\nUdacity\nAI for Business Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\nStanford Online\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\nUdemy\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\nKaggle\nFeature Engineering, 2023 (Ryan Holbrook & Alexis Cook)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2010-2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2000-2006)"
+    "text": "Education\n\nGoogle\nProfessional Certificate in Project Management, 2025\n\n\nIBM\nIBM AI Engineering Professional Certificate, 2022-2023 (Joseph Santarcangelo et al.)\n\n\nUdacity\nAI for Business Leaders, Nanodegree, 2022 (William Ross & Luis Serrano)\nIntroduction to Machine Learning Free Course, 2017 (Sebastian Thrun & Katie Malone)\n\n\nStanford Online\nSTATSX0001 Online: Statistical Learning, 2022 (Trevor Hastie & Robert Tibshirani)\n\n\nUdemy\n100 Days of Code: The Complete Python Pro Bootcamp for 20231 (Angela Yu)\nMicrosoft Power BI Desktop for Business Intelligence, 2022 (Maven Analytics, Chris Dutton)\nTableau A-Z: Hands-On Tableau Training for Data Science, 2019 (Kirill Eremenko)\n\n\nKaggle\nFeature Engineering, 2023 (Ryan Holbrook & Alexis Cook)\n\n\nUniversity of Nottingham\nMSc. Electrical Technology for Sustainable and Renewable Energy Systems, UK (2011)\n\n\nUniversidad del Zulia\nDipl.-Ing. Electrical Engineering, VE (2006)"
   },
   {
     "objectID": "about.html#courses",
@@ -353,8 +353,8 @@
     "objectID": "projects.html#advanced-regression-techniques-with-visual-analytics",
     "href": "projects.html#advanced-regression-techniques-with-visual-analytics",
     "title": "Projects",
-    "section": "Advanced regression techniques with visual analytics",
-    "text": "Advanced regression techniques with visual analytics\n\n\n\n\n\n\n\n\n\n\nFollow my workflow for a top 10% solution for this open Kaggle competition, predicting the house prices in Ames. I’ll give you tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visuals. I used R with the state-of-the-art Tidyverse and Tidymodels metapackages. Quarto is the publishing system.\n\nKeywords: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models."
+    "section": "Advanced regression techniques with Visual Analytics",
+    "text": "Advanced regression techniques with Visual Analytics\n\n\n\n\n\n\nIn this demo project, follow my workflow for a top 10% solution for this open Kaggle competition, predicting the house prices in Ames. I’ll give you tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visuals. I used R with the state-of-the-art Tidyverse and Tidymodels metapackages. Quarto is the publishing system.\n\nKeywords: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models."
   },
   {
     "objectID": "projects.html#forecasting-heat-demand-in-buildings",
@@ -368,7 +368,7 @@
     "href": "projects.html#water-demand-prediction-with-lstms-for-pumps-control",
     "title": "Projects",
     "section": "Water demand prediction with LSTMs for pumps control",
-    "text": "Water demand prediction with LSTMs for pumps control\n\n\n\n\n\n\n\n\n\n\nIn this project my main task was the hyper-parameters optimisation. Using Python’s scikit-learn and TensorFlow wrapped in the Keras API, I was able to determine the optimal batch size and the number of units for the LSTM network.\n\nKeywords: Deep Learning, Supervised Learning, Time-Series, Forecasting, LSTMs."
+    "text": "Water demand prediction with LSTMs for pumps control\n\n\n\n\n\n\nIn this project my main task was the hyper-parameters optimisation. Using Python’s scikit-learn and TensorFlow wrapped in the Keras API, I was able to determine the optimal batch size and the number of units for the LSTM network.\n\nKeywords: Deep Learning, Supervised Learning, Time-Series, Forecasting, LSTMs."
   },
   {
     "objectID": "projects.html#electrical-substation-reliability-assessment-using-the-monte-carlo-chronological-method-a-real-case-evaluation",
@@ -382,7 +382,7 @@
     "href": "projects.html#hierarchical-clustering-of-daily-load-profiles",
     "title": "Projects",
     "section": "Hierarchical clustering of daily load profiles",
-    "text": "Hierarchical clustering of daily load profiles\n\n\n\n\n\n\n\n\n\n\nIn the modern world of sector-coupled utilities, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a proceeding with more than fourty patents, I developed this hierarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.\n\nKeywords: Machine Learning, Unsupervised Learning, Classification, Time-Series, Patterns."
+    "text": "Hierarchical clustering of daily load profiles\n\n\n\n\n\n\nIn the modern world of sector-coupled utilities, time-series always have a very strong daily seasonality. Sequential data of demand are a strong function of calendar factors like hour and day type. Based on a proceeding with more than fourty patents, I developed this hierarchical clustering algorithm as a tool to identify the most relevant daily patterns, e.g., weekends, holidays, workdays and anomalous load profiles.\n\nKeywords: Machine Learning, Unsupervised Learning, Classification, Time-Series, Patterns."
   },
   {
     "objectID": "projects.html#substation-reliability-assessment-using-the-monte-carlo-method-a-real-case-evaluation",
@@ -410,7 +410,7 @@
     "href": "projects.html#e2e-monthly-energy-reports-for-smart-buildings",
     "title": "Projects",
     "section": "E2E monthly energy reports for smart buildings",
-    "text": "E2E monthly energy reports for smart buildings\n\n\n\n\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.\n\nKeywords: Asset Management, Data Analysis, Reports Automation, Monitoring."
+    "text": "E2E monthly energy reports for smart buildings\n\n\n\n\n\n\nIn 2019 for the EffMon project, I developed a set of functions to communicate with Fraunhofer’s FROST-Server, an Open Source implementation of the OGC SensorThings API. Using Markdown publishing technologies, as well as libraries like ggplot, I automatised the entire KPI calculations and visualisations for reporting and management of the entire energy demand of the Fraunhofer IOSB building in Karlsruhe, including district heating, hot water, cooling tower and power. Click on the image to see a video of the results.\n\nKeywords: Asset Management, Data Analysis, Reports Automation, Monitoring."
   },
   {
     "objectID": "projects.html#substation-reliability-assessment-using-monte-carlo-methods-real-case-evaluation",
@@ -446,5 +446,40 @@
     "title": "Projects",
     "section": "Wind Energy Yield Forecast",
     "text": "Wind Energy Yield Forecast\n\n\nThis project showcases the continuous delivery with free tools (Docker & Github Actions) of a short-term power forecast with the potential energy yield of a Goldwind turbine. I programmed backend (Python) and frontend (R, Quarto). As a demo, the wind turbine is located on the German coast of the North Sea. Basically, weather variables are obtained from the the DWD-ICON model and these are used as inputs to calculate the theoretical wind power generated using all wind turbine attributes. The Forecast Horizon (FH) is seven days ahead. Hourly predictions are automatically updated daily and the dashboard is refreshed.\n\nKeywords: Docker, GitHub Actions, CI/CD, Forecasting, Numeric Weather Prediction, Time-Series, Energy."
+  },
+  {
+    "objectID": "projects.html#scada-based-analytics-reliability-assessment-wind-turbines",
+    "href": "projects.html#scada-based-analytics-reliability-assessment-wind-turbines",
+    "title": "Projects",
+    "section": "SCADA-Based Analytics & Reliability Assessment: Wind Turbines",
+    "text": "SCADA-Based Analytics & Reliability Assessment: Wind Turbines\n\n\n\n\n\n\nIn this project, I evaluated the performance and reliability of Senvion MM92 turbines at the Kelmarsh Wind Farm using over 385,000 SCADA event records sourced from Power Factors. The data was transformed into a context-rich dataset to support forecasting and risk analysis for renewable energy systems. By leveraging Monte Carlo simulation and open-source tools, the project showcases how stochastic and data-driven methods uncover valuable insights in wind turbine fleet performance, paving the way for smarter, more resilient energy systems through predictive maintenance.\n\nKeywords: Data Analytics, Risk Assessment, Stochastic Processes, Monte Carlo Simulation."
+  },
+  {
+    "objectID": "projects.html#advanced-regression-techniques-with-visual-analytics-demo",
+    "href": "projects.html#advanced-regression-techniques-with-visual-analytics-demo",
+    "title": "Projects",
+    "section": "Advanced regression techniques with Visual Analytics (Demo)",
+    "text": "Advanced regression techniques with Visual Analytics (Demo)\n\n\n\n\n\n\nFollow my workflow for a top 10% solution for this open Kaggle competition, predicting the house prices in Ames. I’ll give you tips along the way, developing pipelines on the ETL phase, as well as a clean presentation on the EDA supported on the best visuals. I used R with the state-of-the-art Tidyverse and Tidymodels metapackages. Quarto is the publishing system.\n\nKeywords: Machine Learning, Supervised Learning, Regression, Elastic-Net, XGBoost, Ensemble Models."
+  },
+  {
+    "objectID": "projects.html#live-wind-energy-yield-assessment-eya",
+    "href": "projects.html#live-wind-energy-yield-assessment-eya",
+    "title": "Projects",
+    "section": "Live Wind Energy Yield Assessment (EYA)",
+    "text": "Live Wind Energy Yield Assessment (EYA)\n\n\nThis project showcases the continuous delivery with free tools (Docker & Github Actions) of a short-term power forecast with the theoretical energy yield of a Goldwind turbine. I programmed backend (Python) and frontend (R, Quarto). As a demo, the wind turbine is located on the German coast of the North Sea. Basically, weather variables are obtained from the the DWD-ICON model and these are used as inputs to calculate the theoretical wind power generated using all wind turbine attributes. The Forecast Horizon (FH) is seven days ahead. Hourly predictions are automatically updated daily and the dashboard is refreshed.\n\nKeywords: Docker, GitHub Actions, CI/CD, Forecasting, Numeric Weather Prediction, Time-Series, Energy."
+  },
+  {
+    "objectID": "projects.html#scada-based-reliability-assessment-of-wind-turbines",
+    "href": "projects.html#scada-based-reliability-assessment-of-wind-turbines",
+    "title": "Projects",
+    "section": "SCADA-Based Reliability Assessment of Wind Turbines",
+    "text": "SCADA-Based Reliability Assessment of Wind Turbines\n\n\n\n\n\n\nIn this project, I evaluated the performance and reliability of Senvion MM92 turbines at the Kelmarsh Wind Farm using over 385,000 SCADA event records sourced from Power Factors. The data was transformed into a context-rich dataset to support forecasting and risk analysis for renewable energy systems. By leveraging Monte Carlo simulation and open-source tools, the project showcases how stochastic and data-driven methods uncover valuable insights in wind turbine fleet performance, paving the way for smarter, more resilient energy systems through predictive maintenance.\n\nKeywords: Data Analytics, Risk Assessment, Stochastic Processes, Monte Carlo Simulation."
+  },
+  {
+    "objectID": "blog.html#featured-blog-posts",
+    "href": "blog.html#featured-blog-posts",
+    "title": "Blog",
+    "section": "Featured Blog Posts",
+    "text": "Featured Blog Posts\n\nSystem Generation Capacity Curve and the probabilistic nature of blackouts\n  \n\nRead the full post on LinkedIn."
   }
 ]

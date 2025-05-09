@@ -2,9 +2,18 @@
 title: "Blog"
 ---
 
-🚧🚧🚧 (wip)
-
 Here you'll find the links to field-related content written by me.
+
+### System Generation Capacity Curve and the Probabilistic Nature of Blackouts
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7325552503368867840/" target="_blank">
+  <img src="imgs/sys_gen_capacity_anim.gif" alt="System Generation Capacity Curve Animation" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;">
+</a>
+
+<p>
+Read the full post on <a href="https://www.linkedin.com/feed/update/urn:li:activity:7325552503368867840/" target="_blank">LinkedIn</a>.
+</p>
+
 
 <!--
 ## The inner-join of Electrical Engineering and Data Science
