@@ -12,7 +12,7 @@ about:
     links:
     - icon: linkedin
       # text: LinkedIn
-      href: https://www.linkedin.com/in/jorge-a-thomas/
+      href: https://www.linkedin.com/in/jorgethomasm/
     - icon: github
       # text: Github
       href: https://github.com/jorgethomasm
