@@ -1,6 +1,6 @@
 ---
 title: "Jorge Thomas"
-subtitle: Project Manager, Data Scientist & Electrical Engineer, MSc.
+subtitle: Electrical Engineer, MSc., Project Management & Digitalisation.
 image: ./imgs/bom_dia_800_600.jpg
 format:
   html:
@@ -31,7 +31,7 @@ I'm Jorge, and I like espresso brewed with light roast beans. I subscribe to Joh
   </blockquote> 
 </figure>
 
-Professionally, I am an Electrical Engineer passionate about sustainable energy sources. That means uncertainty, risk and probabilities—think weather patterns. Somehow, I've always managed to end up doing what I love the most: the development of data-driven models, whether for providing business intelligence or supporting control systems.
+Professionally, I am an Electrical Engineer passionate about sustainable & renewable energy sources. That means uncertainty, risk and probabilities (think about weather). Somehow, I've always managed to end up doing what I love the most: the development of data-driven models, whether for providing business intelligence, i.e., asset management or, supporting control systems.
 
 I don't bike, but I live in Karlsruhe. If you want to know how I got into what today is Data Science, click on the *About* tab. If you want to talk about data science, energy systems or coffee instead, just drop me an [email](mailto:jorgethomasm@ieee.org).
 

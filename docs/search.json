@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jorge Thomas",
     "section": "",
-    "text": "Hello there\nI’m Jorge, and I like espresso brewed with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n\n\n\n“This morning, with her, having coffee.”\n\n\n\nProfessionally, I am an Electrical Engineer passionate about sustainable energy sources. That means uncertainty, risk and probabilities—think weather patterns. Somehow, I’ve always managed to end up doing what I love the most: the development of data-driven models, whether for providing business intelligence or supporting control systems.\nI don’t bike, but I live in Karlsruhe. If you want to know how I got into what today is Data Science, click on the About tab. If you want to talk about data science, energy systems or coffee instead, just drop me an email.\nHave a nice day or evening.\n\n\nJorge"
+    "text": "Hello there\nI’m Jorge, and I like espresso brewed with light roast beans. I subscribe to Johnny Cash’s definition of paradise:\n\n\n\n“This morning, with her, having coffee.”\n\n\n\nProfessionally, I am an Electrical Engineer passionate about sustainable & renewable energy sources. That means uncertainty, risk and probabilities (think about weather). Somehow, I’ve always managed to end up doing what I love the most: the development of data-driven models, whether for providing business intelligence, i.e., asset management or, supporting control systems.\nI don’t bike, but I live in Karlsruhe. If you want to know how I got into what today is Data Science, click on the About tab. If you want to talk about data science, energy systems or coffee instead, just drop me an email.\nHave a nice day or evening.\n\n\nJorge"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Here you’ll find the links to field-related content written by me.\n\nSystem Generation Capacity Curve and the Probabilistic Nature of Blackouts\n  \n\nRead the full post on LinkedIn."
+    "text": "Here you’ll find the links to field-related content written by me. You can also follow my newsletter on Substack.\n\nSelection of a Representative Failure Rate for Wind Turbines\n  \n\nRead the full post on Substack.\n\n\n\nSystem Generation Capacity Curve and the Probabilistic Nature of Blackouts\n  \n\nRead the full post on LinkedIn."
   },
   {
     "objectID": "blog.html#the-inner-join-of-electrical-engineering-and-data-science",

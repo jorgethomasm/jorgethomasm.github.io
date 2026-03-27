@@ -2,7 +2,17 @@
 title: "Blog"
 ---
 
-Here you'll find the links to field-related content written by me.
+Here you'll find the links to field-related content written by me. You can also follow my newsletter on [Substack](https://sustainablesparks.substack.com/).
+
+### Selection of a Representative Failure Rate for Wind Turbines
+
+<a href="https://sustainablesparks.substack.com/p/selection-of-a-representative-failure" target="_blank">
+  <img src="imgs/substack_failure_rate_wtg.jpg" alt="Selection of a Representative Failure Rate for Wind Turbines" style="max-width: 600px; border-radius: 8px; margin-bottom: 1em;">
+</a>
+
+<p>
+Read the full post on <a href="https://sustainablesparks.substack.com/p/selection-of-a-representative-failure" target="_blank">Substack</a>.
+</p>
 
 ### System Generation Capacity Curve and the Probabilistic Nature of Blackouts
 
